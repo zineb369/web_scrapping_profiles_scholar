@@ -1,0 +1,3040 @@
+[
+  {
+    "Nom et Prénom": "Aziz Ouaarab",
+    "ASS - Unevercity": "Assoc. Prof.,Cadi Ayyad University",
+    "Spciality": "Swarm IntelligenceCombinatorial OptimizationBio-inspired Metaheuristics",
+    "Status Depuis 2018": [
+      {
+        "H indice": "8",
+        "Citations": "753",
+        "H indice_I10": "8"
+      }
+    ],
+    "Status Golobal": [
+      {
+        "H indice": "7",
+        "Citations": "522",
+        "H indice_I10": "6"
+      }
+    ],
+    "Article": [
+      {
+        "Nom Article": "Discrete cuckoo search algorithm for the travelling salesman problem",
+        "description": "A Ouaarab, B Ahiod, XS Yang",
+        "auteur": "Neural Computing and Applications 24, 1659-1669, 2014",
+        "Annee": "2014"
+      },
+      {
+        "Nom Article": "Random-key cuckoo search for the travelling salesman problem",
+        "description": "A Ouaarab, B Ahiod, XS Yang",
+        "auteur": "Soft Computing 19, 1099-1106, 2015",
+        "Annee": "2015"
+      },
+      {
+        "Nom Article": "Improved and discrete cuckoo search for solving the travelling salesman problem",
+        "description": "A Ouaarab, B Ahiod, XS Yang",
+        "auteur": "Cuckoo Search and Firefly Algorithm: Theory and Applications, 63-84, 2014",
+        "Annee": "2014"
+      },
+      {
+        "Nom Article": "Discrete cuckoo search algorithm for job shop scheduling problem",
+        "description": "A Ouaarab, B Ahiod, XS Yang, M Abbad",
+        "auteur": "2014 IEEE international symposium on intelligent control (ISIC), 1872-1876, 2014",
+        "Annee": "2014"
+      },
+      {
+        "Nom Article": "Improved ant colony optimization routing protocol for wireless sensor networks",
+        "description": "A El Ghazi, B Ahiod, A Ouaarab",
+        "auteur": "International Conference on Networked Systems, 246-256, 2014",
+        "Annee": "2014"
+      },
+      {
+        "Nom Article": "A combination of regression techniques and cuckoo search algorithm for FOREX speculation",
+        "description": "S Achchab, O Bencharef, A Ouaarab",
+        "auteur": "Recent Advances in Information Systems and Technologies: Volume 1 5, 226-235, 2017",
+        "Annee": "2017"
+      },
+      {
+        "Nom Article": "Discrete Cuckoo Search for Combinatorial Optimization",
+        "description": "A Ouaarab",
+        "auteur": "Springer Singapore, 2020",
+        "Annee": "2020"
+      },
+      {
+        "Nom Article": "Discrete cuckoo search applied to job shop scheduling problem",
+        "description": "A Ouaarab, B Ahiod, XS Yang",
+        "auteur": "Recent advances in swarm intelligence and evolutionary computation, 121-137, 2014",
+        "Annee": "2014"
+      },
+      {
+        "Nom Article": "Random key cuckoo search for the quadratic assignment problem",
+        "description": "A Ouaarab, B Ahiod, XS Yang",
+        "auteur": "Transactions on Machine Learning and Artificial Intelligence 5 (4), 2017",
+        "Annee": "2017"
+      },
+      {
+        "Nom Article": "Cuckoo search: from cuckoo reproduction strategy to combinatorial optimization",
+        "description": "A Ouaarab, XS Yang",
+        "auteur": "Nature-Inspired Computation in Engineering, 91-110, 2016",
+        "Annee": "2016"
+      },
+      {
+        "Nom Article": "Review of tour generation for solving traveling salesman problems",
+        "description": "A Ouaarab",
+        "auteur": "Nature-Inspired Computation in Navigation and Routing Problems: Algorithms …, 2020",
+        "Annee": "2020"
+      },
+      {
+        "Nom Article": "Résolution de problèmes d'optimisation combinatoire par des métaheuristiques inspirées de la nature: Recherche du coucou via les vols de lévy",
+        "description": "A Ouaarab",
+        "auteur": "Université Mohammed V, Faculté des sciences-Rabat, 2015",
+        "Annee": "2015"
+      },
+      {
+        "Nom Article": "Review of Swarm Intelligence for Improving Time Series Forecasting",
+        "description": "A Ouaarab, E Osaba, M Bouziane, O Bencharef",
+        "auteur": "Applied Optimization and Swarm Intelligence, 61-79, 2021",
+        "Annee": "2021"
+      },
+      {
+        "Nom Article": "Nature-Inspired Computation in Navigation and Routing Problems",
+        "description": "XS Yang, YX Zhao",
+        "auteur": "Springer, 2020",
+        "Annee": "2020"
+      },
+      {
+        "Nom Article": "Random-key cuckoo search (RKCS) applications",
+        "description": "A Ouaarab, A Ouaarab",
+        "auteur": "Discrete cuckoo search for combinatorial optimization, 71-86, 2020",
+        "Annee": "2020"
+      },
+      {
+        "Nom Article": "DCS applications",
+        "description": "A Ouaarab, A Ouaarab",
+        "auteur": "Discrete Cuckoo Search for Combinatorial Optimization, 45-70, 2020",
+        "Annee": "2020"
+      },
+      {
+        "Nom Article": "Cuckoo search: from continuous to combinatorial",
+        "description": "A Ouaarab, A Ouaarab",
+        "auteur": "Discrete Cuckoo Search for Combinatorial Optimization, 31-41, 2020",
+        "Annee": "2020"
+      },
+      {
+        "Nom Article": "Solving combinatorial optimization problems",
+        "description": "A Ouaarab, A Ouaarab",
+        "auteur": "Discrete Cuckoo Search for Combinatorial Optimization, 21-30, 2020",
+        "Annee": "2020"
+      },
+      {
+        "Nom Article": "Benchmarking for Discrete Cuckoo Search: Three Case Studies",
+        "description": "A Ouaarab",
+        "auteur": "Benchmarks and Hybrid Algorithms in Optimization and Applications, 65-83, 2023",
+        "Annee": "2023"
+      },
+      {
+        "Nom Article": "Combinatorial Optimization Space",
+        "description": "A Ouaarab, A Ouaarab",
+        "auteur": "Discrete Cuckoo Search for Combinatorial Optimization, 11-20, 2020",
+        "Annee": "2020"
+      }
+    ],
+    "Coauthors": [
+      {
+        "name": "Xin-She Yang (DPhil)",
+        "university": "Computational intelligence, swarm intelligence, optimization, metaheuristics, nature-inspired"
+      },
+      {
+        "name": "Eneko Osaba",
+        "university": "TECNALIA Research & Innovation"
+      },
+      {
+        "name": "Said. Achchab",
+        "university": "Université Mohammed V de Rabat"
+      }
+    ]
+  },
+  {
+    "Nom et Prénom": "Abdelmounaim Abdali",
+    "ASS - Unevercity": "Professor of computer",
+    "Spciality": "computer of sciences",
+    "Status Depuis 2018": [
+      {
+        "H indice": "10",
+        "Citations": "272",
+        "H indice_I10": "10"
+      }
+    ],
+    "Status Golobal": [
+      {
+        "H indice": "6",
+        "Citations": "129",
+        "H indice_I10": "5"
+      }
+    ],
+    "Article": [
+      {
+        "Nom Article": "Generating Android graphical user interfaces using an MDA approach",
+        "description": "M Lachgar, A Abdali",
+        "auteur": "2014 Third IEEE International Colloquium in Information Science and …, 2014",
+        "Annee": "2014"
+      },
+      {
+        "Nom Article": "Decision framework for mobile development methods",
+        "description": "M Lachgar, A Abdali",
+        "auteur": "Int J Adv Comput Sci Appl (IJACSA) 8 (2), 2017",
+        "Annee": "2017"
+      },
+      {
+        "Nom Article": "Computational simulation of the bone remodeling using the finite element method: an elastic-damage theory for small displacements",
+        "description": "A Idhammad, A Abdali, N Alaa",
+        "auteur": "Theoretical Biology and Medical Modelling 10, 1-11, 2013",
+        "Annee": "2013"
+      },
+      {
+        "Nom Article": "Simulation of sheet cutting by the large time increment method",
+        "description": "A Abdali, K Benkrid, P Bussy",
+        "auteur": "Journal of materials processing technology 60 (1-4), 255-260, 1996",
+        "Annee": "1996"
+      },
+      {
+        "Nom Article": "New DTN routing algorithm",
+        "description": "M Boudguig, A Abdali",
+        "auteur": "International Journal of Computer Science Issues (IJCSI) 10 (2), 82, 2013",
+        "Annee": "2013"
+      },
+      {
+        "Nom Article": "MODELING AND GENERATING THE USER INTERFACE OF MOBILE DEVICES AND WEB DEVELOPMENT WITH DSL.",
+        "description": "M Lachgar, AÏM Abdali",
+        "auteur": "Journal of Theoretical & Applied Information Technology 72 (1), 2015",
+        "Annee": "2015"
+      },
+      {
+        "Nom Article": "Numerical simulation of sheet cutting",
+        "description": "A Abdali, K Benkrid, P Bussy",
+        "auteur": "Simulation of Materials Processing: Theory, Methods and Applications Ð …, 1995",
+        "Annee": "1995"
+      },
+      {
+        "Nom Article": "Modeling and generating native code for cross-platform mobile applications using DSL",
+        "description": "M Lachgar, A Abdali",
+        "auteur": "Intelligent Automation & Soft Computing 23 (3), 445-458, 2017",
+        "Annee": "2017"
+      },
+      {
+        "Nom Article": "Routing in delay tolerant networks (DTN)",
+        "description": "E Sammou, A Abdali",
+        "auteur": "Int. J. Communications, Network and System Sciences 4, 53-58, 2011",
+        "Annee": "2011"
+      },
+      {
+        "Nom Article": "MaxHopCount: DTN congestion control algorithm under MaxProp routing",
+        "description": "Y Harrati, A Abdali",
+        "auteur": "IJCSNS 17 (5), 206, 2017",
+        "Annee": "2017"
+      },
+      {
+        "Nom Article": "MaxHopCount: a new drop policy to optimize messages delivery rate in delay tolerant networks",
+        "description": "Y Harrati, A Abdali",
+        "auteur": "International Journal of Interactive Multimedia and Artificial Intelligence …, 2016",
+        "Annee": "2016"
+      },
+      {
+        "Nom Article": "Dsl and code generator for accelerating ios apps development",
+        "description": "M Lachgar, A Abdali",
+        "auteur": "2015 Third World Conference on Complex Systems (WCCS), 1-8, 2015",
+        "Annee": "2015"
+      },
+      {
+        "Nom Article": "On the stable damage model for metal forming processes",
+        "description": "K Benkrid, P Bussy, A Abdali",
+        "auteur": "Journal of materials processing technology 45 (1-4), 521-526, 1994",
+        "Annee": "1994"
+      },
+      {
+        "Nom Article": "On a new law of bone remodeling based on damage elasticity: a thermodynamic approach",
+        "description": "A Idhammad, A Abdali",
+        "auteur": "Theoretical Biology and Medical Modelling 9, 1-11, 2012",
+        "Annee": "2012"
+      },
+      {
+        "Nom Article": "An intelligent similarity model between generalized trapezoidal fuzzy numbers in large scale",
+        "description": "MC Tourad, A Abdali",
+        "auteur": "International Journal of Fuzzy Logic and Intelligent Systems 18 (4), 303-315, 2018",
+        "Annee": "2018"
+      },
+      {
+        "Nom Article": "Predicting smart grid stability using machine learning algorithms",
+        "description": "HF Ezzahra, M Aatila, M Lachgar, A Abdali",
+        "auteur": "2022 11th International Symposium on Signal, Image, Video and Communications …, 2022",
+        "Annee": "2022"
+      },
+      {
+        "Nom Article": "Performance Analysis of Adaptive Fuzzy Spray and Wait Routing Protocol.",
+        "description": "Y Harrati, A Abdali",
+        "auteur": "J. Commun. 14 (8), 739-744, 2019",
+        "Annee": "2019"
+      },
+      {
+        "Nom Article": "New predictability concept for routing in DTN",
+        "description": "M Boudguig, A Abdali",
+        "auteur": "2012 International Conference on Multimedia Computing and Systems, 545-550, 2012",
+        "Annee": "2012"
+      },
+      {
+        "Nom Article": "Numerical simulation of the process of bone remodeling in the context of damaged elastic",
+        "description": "A Idhammad, A Abdali, P Bussy",
+        "auteur": "Int J Adv Sci Tech 37, 87-98, 2011",
+        "Annee": "2011"
+      },
+      {
+        "Nom Article": "On a new index of publish/subscribe system in the context of big data",
+        "description": "MC Tourad, A Abdali, A Outfarouin",
+        "auteur": "2016 IEEE/ACS 13th International Conference of Computer Systems and …, 2016",
+        "Annee": "2016"
+      }
+    ],
+    "Coauthors": []
+  },
+  {
+    "Nom et Prénom": "Sara Qassimi",
+    "ASS - Unevercity": "Laboratory L2IS, UCA",
+    "Spciality": "",
+    "Status Depuis 2018": [
+      {
+        "H indice": "6",
+        "Citations": "128",
+        "H indice_I10": "6"
+      }
+    ],
+    "Status Golobal": [
+      {
+        "H indice": "6",
+        "Citations": "123",
+        "H indice_I10": "4"
+      }
+    ],
+    "Article": [
+      {
+        "Nom Article": "Gamification and serious games based learning for early childhood in rural areas",
+        "description": "R Lamrani, EH Abdelwahed, S Chraibi, S Qassimi, M Hafidi",
+        "auteur": "New Trends in Model and Data Engineering: MEDI 2018 International Workshops …, 2018",
+        "Annee": "2018"
+      },
+      {
+        "Nom Article": "The role of collaborative tagging and ontologies in emerging semantic of web resources",
+        "description": "S Qassimi, EH Abdelwahed",
+        "auteur": "Computing 101 (10), 1489-1511, 2019",
+        "Annee": "2019"
+      },
+      {
+        "Nom Article": "Serious game to enhance and promote youth entrepreneurship",
+        "description": "R Lamrani, EH Abdelwahed, S Chraibi, S Qassimi, M Hafidi, A El Amrani",
+        "auteur": "Europe and MENA Cooperation Advances in Information and Communication …, 2017",
+        "Annee": "2017"
+      },
+      {
+        "Nom Article": "Disruptive Innovation in Mining Industry 4.0",
+        "description": "S Qassimi, EH Abdelwahed",
+        "auteur": "Distributed Sensing and Intelligent Systems: Proceedings of ICDSIS 2020, 313-325, 2021",
+        "Annee": "2021"
+      },
+      {
+        "Nom Article": "Enrichment of ontology by exploiting collaborative tagging systems: a contextual semantic approach",
+        "description": "S Qassimi, M Hafidi, R Lamrani",
+        "auteur": "2016 Third International Conference on Systems of Collaboration (SysCo), 1-6, 2016",
+        "Annee": "2016"
+      },
+      {
+        "Nom Article": "Graph‐based tag recommendations using clusters of patients in clinical decision support system",
+        "description": "M Hafidi, EH Abdelwahed, S Qassimi",
+        "auteur": "Concurrency and Computation: Practice and Experience 33 (1), e5624, 2021",
+        "Annee": "2021"
+      },
+      {
+        "Nom Article": "Early childhood education: How play can be used to meet children’s individual needs",
+        "description": "R Lamrani, EH Abdelwahed, S Chraibi, S Qassimi, M Hafidi",
+        "auteur": "Advanced Intelligent Systems for Sustainable Development (AI2SD’2018) Vol 4 …, 2019",
+        "Annee": "2019"
+      },
+      {
+        "Nom Article": "Towards a folksonomy graph-based context-aware recommender system of annotated books",
+        "description": "S Qassimi, EH Abdelwahed, M Hafidi, A Qazdar",
+        "auteur": "Journal of Big Data 8 (1), 1-17, 2021",
+        "Annee": "2021"
+      },
+      {
+        "Nom Article": "Towards an emergent semantic of web resources using collaborative tagging",
+        "description": "S Qassimi, EH Abdelwahed, M Hafidi, R Lamrani",
+        "auteur": "Model and Data Engineering: 7th International Conference, MEDI 2017 …, 2017",
+        "Annee": "2017"
+      },
+      {
+        "Nom Article": "Multi-objective optimization with recommender systems: A systematic review",
+        "description": "FE Zaizi, S Qassimi, S Rakrak",
+        "auteur": "Information Systems, 102233, 2023",
+        "Annee": "2023"
+      },
+      {
+        "Nom Article": "Digital Transformation of the Flotation Monitoring Towards an Online Analyzer",
+        "description": "A Bendaouia, EH Abdelwahed, S Qassimi, A Boussetta, A Benhayoun, ...",
+        "auteur": "International Conference on Smart Applications and Data Analysis, 325-338, 2022",
+        "Annee": "2022"
+      },
+      {
+        "Nom Article": "Clustering and social recommendation applied in health community of practice",
+        "description": "M Hafidi, EH Abdelwahed, S Qassimi, R Lamrani",
+        "auteur": "Advanced Intelligent Systems for Sustainable Development (AI2SD’2018) Vol 4 …, 2019",
+        "Annee": "2019"
+      },
+      {
+        "Nom Article": "Towards a Semantic Graph-based Recommender System. A Case Study of Cultural Heritage.",
+        "description": "S Qassimi, EH Abdelwahed",
+        "auteur": "JUCS: Journal of Universal Computer Science 26 (7), 2021",
+        "Annee": "2021"
+      },
+      {
+        "Nom Article": "The role of recommender system of tags in clinical decision support",
+        "description": "S Qassimi, EH Abdelwahed, M Hafidi, R Lamrani",
+        "auteur": "Advanced Intelligent Systems for Sustainable Development (AI2SD’2018) Vol 4 …, 2019",
+        "Annee": "2019"
+      },
+      {
+        "Nom Article": "A Graph-Based Model for Tag Recommendations in Clinical Decision Support System",
+        "description": "S Qassimi, EH Abdelwahed, M Hafidi, R Lamrani",
+        "auteur": "Model and Data Engineering: 8th International Conference, MEDI 2018 …, 2018",
+        "Annee": "2018"
+      },
+      {
+        "Nom Article": "Artificial intelligence for enhanced flotation monitoring in the mining industry: A ConvLSTM-based approach",
+        "description": "A Bendaouia, S Qassimi, A Boussetta, I Benzakour, O Amar, O Hasidi",
+        "auteur": "Computers & Chemical Engineering 180, 108476, 2024",
+        "Annee": "2024"
+      },
+      {
+        "Nom Article": "Learning Analytics for Tracking Student Progress in LMS",
+        "description": "A QAZDAR, S QASSIMI, O HASSIDI, M HAFIDI, A EH, Y Melk",
+        "auteur": "",
+        "Annee": "2022"
+      },
+      {
+        "Nom Article": "Review on Recent Trends in Recommender Systems for Smart Cities",
+        "description": "S Abakarim, S Qassimi, S Rakrak",
+        "auteur": "The International Conference on Artificial Intelligence and Computer Vision …, 2023",
+        "Annee": "2023"
+      },
+      {
+        "Nom Article": "Semantic Graph-Based Recommender System. Application in Cultural Heritage",
+        "description": "S Qassimi, EH Abdelwahed",
+        "auteur": "New Trends in Model and Data Engineering: MEDI 2019 International Workshops …, 2019",
+        "Annee": "2019"
+      },
+      {
+        "Nom Article": "Hybrid features extraction for the online mineral grades determination in the flotation froth using Deep Learning",
+        "description": "A Bendaouia, S Qassimi, A Boussetta, I Benzakour, A Benhayoun, ...",
+        "auteur": "Engineering Applications of Artificial Intelligence 129, 107680, 2024",
+        "Annee": "2024"
+      }
+    ],
+    "Coauthors": []
+  },
+  {
+    "Nom et Prénom": "Hajar Mousannif",
+    "ASS - Unevercity": "Professor of Computer Science (Informatique), Cadi Ayyad University, Morocco",
+    "Spciality": "Artificial IntelligenceMachine LearningData AnalyticsIoT",
+    "Status Depuis 2018": [
+      {
+        "H indice": "22",
+        "Citations": "2952",
+        "H indice_I10": "22"
+      }
+    ],
+    "Status Golobal": [
+      {
+        "H indice": "20",
+        "Citations": "2670",
+        "H indice_I10": "28"
+      }
+    ],
+    "Article": [
+      {
+        "Nom Article": "Using machine learning algorithms for breast cancer risk prediction and diagnosis",
+        "description": "H Asri, H Mousannif, H Al Moatassime, T Noel",
+        "auteur": "Procedia Computer Science 83, 1064-1069, 2016",
+        "Annee": "2016"
+      },
+      {
+        "Nom Article": "Access control in the Internet of Things: Big challenges and new opportunities",
+        "description": "A Ouaddah, H Mousannif, A Abou Elkalam, AA Ouahman",
+        "auteur": "Computer Networks 112, 237-262, 2017",
+        "Annee": "2017"
+      },
+      {
+        "Nom Article": "Data quality in internet of things: A state-of-the-art survey",
+        "description": "A Karkouch, H Mousannif, H Al Moatassime, T Noel",
+        "auteur": "Journal of Network and Computer Applications 73, 57-81, 2016",
+        "Annee": "2016"
+      },
+      {
+        "Nom Article": "Predictive modeling of wildfires: A new dataset and machine learning approach",
+        "description": "YO Sayad, H Mousannif, H Al Moatassime",
+        "auteur": "Fire safety journal 104, 130-146, 2019",
+        "Annee": "2019"
+      },
+      {
+        "Nom Article": "The application of machine learning techniques for driving behavior analysis: A conceptual framework and a systematic literature review",
+        "description": "ZE Abou Elassad, H Mousannif, H Al Moatassime, A Karkouch",
+        "auteur": "Engineering Applications of Artificial Intelligence 87, 103312, 2020",
+        "Annee": "2020"
+      },
+      {
+        "Nom Article": "Big data in healthcare: Challenges and opportunities",
+        "description": "H Asri, H Mousannif, H Al Moatassime, T Noel",
+        "auteur": "2015 International conference on cloud technologies and applications …, 2015",
+        "Annee": "2015"
+      },
+      {
+        "Nom Article": "Using YouTube comments for text-based emotion recognition",
+        "description": "M Hajar",
+        "auteur": "Procedia Computer Science 83, 292-299, 2016",
+        "Annee": "2016"
+      },
+      {
+        "Nom Article": "Cooperation as a Service in VANETs.",
+        "description": "H Mousannif, I Khalil, H Al Moatassime",
+        "auteur": "J. Univers. Comput. Sci. 17 (8), 1202-1218, 2011",
+        "Annee": "2011"
+      },
+      {
+        "Nom Article": "Class-imbalanced crash prediction based on real-time traffic and weather data: A driving simulator study",
+        "description": "Z Elamrani Abou Elassad, H Mousannif, H Al Moatassime",
+        "auteur": "Traffic injury prevention 21 (3), 201-208, 2020",
+        "Annee": "2020"
+      },
+      {
+        "Nom Article": "Predicting chronic kidney failure disease using data mining techniques",
+        "description": "B Boukenze, A Haqiq, H Mousannif",
+        "auteur": "Advances in Ubiquitous Networking 2: Proceedings of the UNet’16 2, 701-712, 2017",
+        "Annee": "2017"
+      },
+      {
+        "Nom Article": "A real-time crash prediction fusion framework: An imbalance-aware strategy for collision avoidance systems",
+        "description": "ZE Abou Elassad, H Mousannif, H Al Moatassime",
+        "auteur": "Transportation research part C: emerging technologies 118, 102708, 2020",
+        "Annee": "2020"
+      },
+      {
+        "Nom Article": "Big data projects: just jump right in!",
+        "description": "H Mousannif, H Sabah, Y Douiji, YO Sayad",
+        "auteur": "International Journal of Pervasive Computing and Communications 12 (2), 260-288, 2016",
+        "Annee": "2016"
+      },
+      {
+        "Nom Article": "A proactive decision support system for predicting traffic crash events: A critical analysis of imbalanced class distribution",
+        "description": "ZE Abou Elassad, H Mousannif, H Al Moatassime",
+        "auteur": "Knowledge-Based Systems 205, 106314, 2020",
+        "Annee": "2020"
+      },
+      {
+        "Nom Article": "Predictive analytics in healthcare system using data mining techniques",
+        "description": "B Boukenze, H Mousannif, A Haqiq",
+        "auteur": "Comput Sci Inf Technol 1, 1-9, 2016",
+        "Annee": "2016"
+      },
+      {
+        "Nom Article": "From big data to big projects: a step-by-step roadmap",
+        "description": "H Mousannif, H Sabah, Y Douiji, YO Sayad",
+        "auteur": "2014 International Conference on Future Internet of Things and Cloud, 373-378, 2014",
+        "Annee": "2014"
+      },
+      {
+        "Nom Article": "Reality mining and predictive analytics for building smart applications",
+        "description": "H Asri, H Mousannif, H Al Moatassime",
+        "auteur": "Journal of Big Data 6, 1-25, 2019",
+        "Annee": "2019"
+      },
+      {
+        "Nom Article": "Collaborative learning in the clouds",
+        "description": "H Mousannif, I Khalil, G Kotsis",
+        "auteur": "Information Systems Frontiers 15 (2), 159-165, 2013",
+        "Annee": "2013"
+      },
+      {
+        "Nom Article": "Cooperation as a service in VANET: Implementation and simulation results",
+        "description": "H Mousannif, I Khalil, S Olariu",
+        "auteur": "Mobile Information Systems 8 (2), 153-172, 2012",
+        "Annee": "2012"
+      },
+      {
+        "Nom Article": "Performance of data mining techniques to predict in healthcare case study: chronic kidney failure disease",
+        "description": "B Boukenze, H Mousannif, A Haqiq",
+        "auteur": "Int. Journal of Database Managment systems 8 (30), 1-9, 2016",
+        "Annee": "2016"
+      },
+      {
+        "Nom Article": "Access control in IoT: Survey & state of the art",
+        "description": "A Ouaddah, H Mousannif, A Abou Elkalam, AA Ouahman",
+        "auteur": "2016 5th International Conference on Multimedia Computing and Systems (ICMCS …, 2016",
+        "Annee": "2016"
+      }
+    ],
+    "Coauthors": [
+      {
+        "name": "Thomas Noel",
+        "university": "Université de Strasbourg / CNRS"
+      },
+      {
+        "name": "Zouhair Elamrani Abou Elassad",
+        "university": "Professor of Computer Science, Cadi Ayyad University, Morocco"
+      },
+      {
+        "name": "Mohamed-Amine CHADI",
+        "university": "Cadi Ayyad university"
+      },
+      {
+        "name": "Gabriele Kotsis",
+        "university": "Johannes Kepler Universität Linz"
+      },
+      {
+        "name": "Stephan Olariu",
+        "university": "Old Dominion University"
+      },
+      {
+        "name": "Michel Le Page",
+        "university": "CESBIO/IRD"
+      },
+      {
+        "name": "Mohamed Bakhouya",
+        "university": "International University of Rabat"
+      },
+      {
+        "name": "Mohamed Essaaidi",
+        "university": "Moroccan School of Engineering Sciences (EMSI), Morocco"
+      },
+      {
+        "name": "Aawatif HAYAR",
+        "university": "University Hassan II Casablanca"
+      }
+    ]
+  },
+  {
+    "Nom et Prénom": "Zouhair Elamrani Abou Elassad",
+    "ASS - Unevercity": "Professor of Computer Science,Cadi Ayyad University, Morocco",
+    "Spciality": "Artificial IntelligenceMachine LearningIntelligent EnvironmentsData AnalyticsIoT",
+    "Status Depuis 2018": [
+      {
+        "H indice": "6",
+        "Citations": "306",
+        "H indice_I10": "6"
+      }
+    ],
+    "Status Golobal": [
+      {
+        "H indice": "6",
+        "Citations": "306",
+        "H indice_I10": "5"
+      }
+    ],
+    "Article": [
+      {
+        "Nom Article": "The application of machine learning techniques for driving behavior analysis: A conceptual framework and a systematic literature review",
+        "description": "ZE Abou Elassad, H Mousannif, H Al Moatassime, A Karkouch",
+        "auteur": "Engineering Applications of Artificial Intelligence 87, 103312, 2020",
+        "Annee": "2020"
+      },
+      {
+        "Nom Article": "Class-imbalanced crash prediction based on real-time traffic and weather data: A driving simulator study",
+        "description": "Z Elamrani Abou Elassad, H Mousannif, H Al Moatassime",
+        "auteur": "Traffic injury prevention 21 (3), 201-208, 2020",
+        "Annee": "2020"
+      },
+      {
+        "Nom Article": "A real-time crash prediction fusion framework: An imbalance-aware strategy for collision avoidance systems",
+        "description": "ZE Abou Elassad, H Mousannif, H Al Moatassime",
+        "auteur": "Transportation research part C: emerging technologies 118, 102708, 2020",
+        "Annee": "2020"
+      },
+      {
+        "Nom Article": "A proactive decision support system for predicting traffic crash events: A critical analysis of imbalanced class distribution",
+        "description": "ZE Abou Elassad, H Mousannif, H Al Moatassime",
+        "auteur": "Knowledge-Based Systems 205, 106314, 2020",
+        "Annee": "2020"
+      },
+      {
+        "Nom Article": "Understanding driving behavior: Measurement, modeling and analysis",
+        "description": "Z Elamrani Abou Elassad, H Mousannif",
+        "auteur": "Advanced Intelligent Systems for Sustainable Development (AI2SD’2018) Volume …, 2019",
+        "Annee": "2019"
+      },
+      {
+        "Nom Article": "Towards analyzing crash events for novice drivers under reduced-visibility settings: A simulator study",
+        "description": "EAE Zouhair, H Mousannif, H Al Moatassime",
+        "auteur": "Proceedings of the 3rd International Conference on Networking, Information …, 2020",
+        "Annee": "2020"
+      },
+      {
+        "Nom Article": "Machine Learning Prediction of Weather-Induced Road Crash Events for Experienced and Novice Drivers: Insights from a Driving Simulator Study",
+        "description": "Z Elamrani Abou Elassad, M Ameksa, D Elamrani Abou Elassad, ...",
+        "auteur": "International Conference on Business Intelligence, 57-73, 2023",
+        "Annee": "2023"
+      },
+      {
+        "Nom Article": "Efficient Fusion Decision System for Predicting Road Crash Events: A Comparative Simulator Study for Imbalance Class Handling",
+        "description": "Z Elamrani Abou Elassad, M Ameksa, D Elamrani Abou Elassad, ...",
+        "auteur": "Transportation Research Record, 03611981231192985, 2023",
+        "Annee": "2023"
+      },
+      {
+        "Nom Article": "Crash Prediction using Ensemble Methods",
+        "description": "M Ameksa, H Mousannif, H Al Moatassime, ZE Abou",
+        "auteur": "",
+        "Annee": "2022"
+      },
+      {
+        "Nom Article": "Toward Flexible Data Collection of Driving Behaviour",
+        "description": "M Ameksa, H Mousannif, H Al Moatassime, Z Elamrani Abou Elassad",
+        "auteur": "The International Archives of the Photogrammetry, Remote Sensing and Spatial …, 2020",
+        "Annee": "2020"
+      },
+      {
+        "Nom Article": "A non-intrusive multivariate analysis for monitoring inattentive driving based on physiological signals, driver inputs and visual features: A hybrid deep learning approach",
+        "description": "DE Abou Elassad, ZE Abou Elassad, O El Meslouhi, M Ameksa, ...",
+        "auteur": "2023 10th International Conference on Wireless Networks and Mobile …, 2023",
+        "Annee": "2023"
+      },
+      {
+        "Nom Article": "Does gender affect the identification of road crash occurrences? An Overview and a comparative study",
+        "description": "S EL FEROUALI, A ABDALI",
+        "auteur": "International Journal of Computer Engineering and Data Science (IJCEDS) 3 (1 …, 2023",
+        "Annee": "2023"
+      },
+      {
+        "Nom Article": "Predictive analysis for road accidents using a tree-based and deep learning fusion system",
+        "description": "M Ameksa, Z Elamrani Abou Elassad, D Elamrani Abou Elassad, ...",
+        "auteur": "Journal of Intelligent & Fuzzy Systems, 1-17, 0",
+        "Annee": ""
+      },
+      {
+        "Nom Article": "Imbalance-learning road crash assessment under reduced visibility settings: A proactive multicriteria decision-making system",
+        "description": "Z Elamrani Abou Elassad, D Elamrani Abou Elassad, H Mousannif",
+        "auteur": "Journal of Ambient Intelligence and Smart Environments, 1-26, 0",
+        "Annee": ""
+      },
+      {
+        "Nom Article": "The Application of Machine Learning Techniques for Smart Irrigation Systems: A Systematic Literature Review",
+        "description": "Y ABIADI, Z Elamrani Abou Elassad, O El Meslouhi, ...",
+        "auteur": "Available at SSRN 4615108, 0",
+        "Annee": ""
+      }
+    ],
+    "Coauthors": []
+  },
+  {
+    "Nom et Prénom": "Geoffrey Hinton",
+    "ASS - Unevercity": "Emeritus Prof. Computer Science,University of Toronto",
+    "Spciality": "machine learningpsychologyartificial intelligencecognitive sciencecomputer science",
+    "Status Depuis 2018": [
+      {
+        "H indice": "181",
+        "Citations": "735202",
+        "H indice_I10": "181"
+      }
+    ],
+    "Status Golobal": [
+      {
+        "H indice": "133",
+        "Citations": "528108",
+        "H indice_I10": "347"
+      }
+    ],
+    "Article": [
+      {
+        "Nom Article": "Imagenet classification with deep convolutional neural networks",
+        "description": "A Krizhevsky, I Sutskever, GE Hinton",
+        "auteur": "Advances in neural information processing systems 25, 2012",
+        "Annee": "2012"
+      },
+      {
+        "Nom Article": "Deep learning",
+        "description": "Y LeCun, Y Bengio, G Hinton",
+        "auteur": "Nature 521 (7553), 436-44, 2015",
+        "Annee": "2015"
+      },
+      {
+        "Nom Article": "Dropout: a simple way to prevent neural networks from overfitting",
+        "description": "N Srivastava, G Hinton, A Krizhevsky, I Sutskever, R Salakhutdinov",
+        "auteur": "The journal of machine learning research 15 (1), 1929-1958, 2014",
+        "Annee": "2014"
+      },
+      {
+        "Nom Article": "Visualizing data using t-SNE",
+        "description": "L van der Maaten, G Hinton",
+        "auteur": "Journal of Machine Learning Research 9 (Nov), 2579-2605, 2008",
+        "Annee": "2008"
+      },
+      {
+        "Nom Article": "Learning representations by back-propagating errors",
+        "description": "DE Rumelhart, GE Hinton, RJ Williams",
+        "auteur": "Nature 323 (6088), 533-536, 1986",
+        "Annee": "1986"
+      },
+      {
+        "Nom Article": "Learning internal representations by error-propagation",
+        "description": "DE Rumelhart, GE Hinton, RJ Williams",
+        "auteur": "Parallel Distributed Processing: Explorations in the Microstructure of …, 1986",
+        "Annee": "1986"
+      },
+      {
+        "Nom Article": "Learning multiple layers of features from tiny images",
+        "description": "A Krizhevsky, G Hinton",
+        "auteur": "",
+        "Annee": "2009"
+      },
+      {
+        "Nom Article": "Rectified linear units improve restricted boltzmann machines",
+        "description": "V Nair, GE Hinton",
+        "auteur": "Proceedings of the 27th international conference on machine learning (ICML …, 2010",
+        "Annee": "2010"
+      },
+      {
+        "Nom Article": "Reducing the dimensionality of data with neural networks",
+        "description": "GE Hinton, RR Salakhutdinov",
+        "auteur": "Science 313 (5786), 504-507, 2006",
+        "Annee": "2006"
+      },
+      {
+        "Nom Article": "A fast learning algorithm for deep belief nets",
+        "description": "GE Hinton, S Osindero, YW Teh",
+        "auteur": "Neural computation 18 (7), 1527-1554, 2006",
+        "Annee": "2006"
+      },
+      {
+        "Nom Article": "Distilling the knowledge in a neural network",
+        "description": "G Hinton, O Vinyals, J Dean",
+        "auteur": "arXiv preprint arXiv:1503.02531, 2015",
+        "Annee": "2015"
+      },
+      {
+        "Nom Article": "A simple framework for contrastive learning of visual representations",
+        "description": "T Chen, S Kornblith, M Norouzi, G Hinton",
+        "auteur": "International conference on machine learning, 1597-1607, 2020",
+        "Annee": "2020"
+      },
+      {
+        "Nom Article": "Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups",
+        "description": "G Hinton, L Deng, D Yu, GE Dahl, A Mohamed, N Jaitly, A Senior, ...",
+        "auteur": "IEEE Signal processing magazine 29 (6), 82-97, 2012",
+        "Annee": "2012"
+      },
+      {
+        "Nom Article": "Speech recognition with deep recurrent neural networks",
+        "description": "A Graves, A Mohamed, G Hinton",
+        "auteur": "2013 IEEE international conference on acoustics, speech and signal …, 2013",
+        "Annee": "2013"
+      },
+      {
+        "Nom Article": "Improving neural networks by preventing co-adaptation of feature detectors",
+        "description": "GE Hinton, N Srivastava, A Krizhevsky, I Sutskever, RR Salakhutdinov",
+        "auteur": "arXiv preprint arXiv:1207.0580, 2012",
+        "Annee": "2012"
+      },
+      {
+        "Nom Article": "Layer normalization",
+        "description": "JL Ba, JR Kiros, GE Hinton",
+        "auteur": "arXiv preprint arXiv:1607.06450, 2016",
+        "Annee": "2016"
+      },
+      {
+        "Nom Article": "Lecture 6.5-rmsprop: Divide the gradient by a running average of its recent magnitude",
+        "description": "T Tieleman, G Hinton",
+        "auteur": "Coursera: Neural networks for machine learning, 2012",
+        "Annee": "2012"
+      },
+      {
+        "Nom Article": "Schemata and sequential thought processes in PDP models.",
+        "description": "D Rumelhart, P Smolenksy, J McClelland, G Hinton",
+        "auteur": "Parallel distributed processing: Explorations in the microstructure of …, 1986",
+        "Annee": "1986"
+      },
+      {
+        "Nom Article": "Training products of experts by minimizing contrastive divergence",
+        "description": "GE Hinton",
+        "auteur": "Neural computation 14 (8), 1771-1800, 2002",
+        "Annee": "2002"
+      },
+      {
+        "Nom Article": "On the importance of initialization and momentum in deep learning",
+        "description": "I Sutskever, J Martens, G Dahl, G Hinton",
+        "auteur": "International conference on machine learning, 1139-1147, 2013",
+        "Annee": "2013"
+      }
+    ],
+    "Coauthors": [
+      {
+        "name": "Terrence Sejnowski",
+        "university": "Francis Crick Professor, Salk Institute, Distingished Professor, UC San Diego"
+      },
+      {
+        "name": "Vinod Nair",
+        "university": "Research Scientist, DeepMind"
+      },
+      {
+        "name": "George E. Dahl",
+        "university": "Google Inc."
+      },
+      {
+        "name": "Abdelrahman Mohamed",
+        "university": "Research scientist, Facebook AI Research"
+      },
+      {
+        "name": "Radford Neal",
+        "university": "U Toronto *** GOOGLE SCHOLAR CAN GIVE WRONG PUBLICATION DATE/REFERENCE - LOOK AT ACTUAL PAPER/BOOK!"
+      },
+      {
+        "name": "Sidney Fels",
+        "university": "Professor of Electrical and Computer Engineering, University of British Columbia"
+      },
+      {
+        "name": "Chris Williams",
+        "university": "Professor of Machine Learning, University of Edinburgh"
+      },
+      {
+        "name": "David C. Plaut",
+        "university": "Professor of Psychology, Carnegie Mellon University"
+      },
+      {
+        "name": "Robert Tibshirani",
+        "university": "Professor of Biomedical Data Sciences, and  of  Statistics, Stanford University"
+      },
+      {
+        "name": "Demetri Terzopoulos",
+        "university": "Distinguished Professor & Chancellor's Professor of Computer Science, UCLA"
+      },
+      {
+        "name": "Steven L. Small",
+        "university": "University of Texas at Dallas"
+      }
+    ]
+  },
+  {
+    "Nom et Prénom": "Daniel Burgos",
+    "ASS - Unevercity": "Universidad Internacional de La Rioja(UNIR)",
+    "Spciality": "Educational TechnologyEducational InnovationeLearningOpen EducationLearning Analytics",
+    "Status Depuis 2018": [
+      {
+        "H indice": "42",
+        "Citations": "7406",
+        "H indice_I10": "42"
+      }
+    ],
+    "Status Golobal": [
+      {
+        "H indice": "32",
+        "Citations": "4639",
+        "H indice_I10": "85"
+      }
+    ],
+    "Article": [
+      {
+        "Nom Article": "Educational game design for online education",
+        "description": "P Moreno-Ger, D Burgos, I Martínez-Ortiz, JL Sierra, B Fernández-Manjón",
+        "auteur": "Computers in Human Behavior 24 (6), 2530-2540, 2008",
+        "Annee": "2008"
+      },
+      {
+        "Nom Article": "Disrupted classes, undisrupted learning during COVID-19 outbreak in China: application of open educational practices and resources",
+        "description": "R Huang, A Tlili, TW Chang, X Zhang, F Nascimbeni, D Burgos",
+        "auteur": "Smart Learning Environments 7, 1-15, 2020",
+        "Annee": "2020"
+      },
+      {
+        "Nom Article": "Digital transformation in higher education institutions: A systematic literature review",
+        "description": "LMC Benavides, JA Tamayo Arias, MD Arango Serna, JW Branch Bedoya, ...",
+        "auteur": "Sensors 20 (11), 3291, 2020",
+        "Annee": "2020"
+      },
+      {
+        "Nom Article": "Is Metaverse in education a blessing or a curse: a combined content and bibliometric analysis",
+        "description": "A Tlili, R Huang, B Shehata, D Liu, J Zhao, AHS Metwally, H Wang, ...",
+        "auteur": "Smart Learning Environments 9 (1), 1-31, 2022",
+        "Annee": "2022"
+      },
+      {
+        "Nom Article": "Monitoring student progress using virtual appliances: A case study",
+        "description": "VA Romero-Zaldivar, A Pardo, D Burgos, CD Kloos",
+        "auteur": "Computers & Education 58 (4), 1058-1067, 2012",
+        "Annee": "2012"
+      },
+      {
+        "Nom Article": "Practical and pedagogical issues for teacher adoption of IMS learning design standards in moodle LMS",
+        "description": "A Berggren, D Burgos, J Fontana, D Hinkelman, V Hung, A Hursh, ...",
+        "auteur": "Journal of Interactive Media in Education 2005 (1), 2005",
+        "Annee": "2005"
+      },
+      {
+        "Nom Article": "An evolutionary SVM model for DDOS attack detection in software defined networks",
+        "description": "KS Sahoo, BK Tripathy, K Naik, S Ramasubbareddy, B Balusamy, M Khari, ...",
+        "auteur": "IEEE access 8, 132502-132513, 2020",
+        "Annee": "2020"
+      },
+      {
+        "Nom Article": "Digital games in eLearning environments: Current uses and emerging trends",
+        "description": "P Moreno-Ger, D Burgos, J Torrente",
+        "auteur": "Simulation & Gaming 40 (5), 669-687, 2009",
+        "Annee": "2009"
+      },
+      {
+        "Nom Article": "Re-purposing existing generic games and simulations for e-learning",
+        "description": "D Burgos, C Tattersall, R Koper",
+        "auteur": "Computers in Human Behavior 23 (6), 2656-2667, 2007",
+        "Annee": "2007"
+      },
+      {
+        "Nom Article": "Guidance on open educational practices during school closures: Utilizing OER under COVID-19 pandemic in line with UNESCO OER recommendation",
+        "description": "R Huang, D Liu, A Tlili, S Knyazeva, TW Chang, X Zhang, D Burgos, ...",
+        "auteur": "Beijing: Smart Learning Institute of Beijing Normal University, 2020",
+        "Annee": "2020"
+      },
+      {
+        "Nom Article": "How to represent adaptation in e-learning with IMS learning design",
+        "description": "D Burgos, C Tattersall, R Koper",
+        "auteur": "Interactive Learning Environments 15 (2), 161-170, 2007",
+        "Annee": "2007"
+      },
+      {
+        "Nom Article": "Are MOOCs Open Educational Resources? A Literature Review on History, Definitions and Typologies of OER and MOOCs.",
+        "description": "CM Stracke, S Downes, G Conole, D Burgos, F Nascimbeni",
+        "auteur": "Open Praxis 11 (4), 331-341, 2019",
+        "Annee": "2019"
+      },
+      {
+        "Nom Article": "In search for the open educator: Proposal of a definition and a framework to increase openness adoption among university educators",
+        "description": "F Nascimbeni, D Burgos",
+        "auteur": "International Review of Research in Open and Distributed Learning 17 (6), 1-17, 2016",
+        "Annee": "2016"
+      },
+      {
+        "Nom Article": "Representing adaptive eLearning strategies in IMS Learning Design",
+        "description": "D Burgos, C Tattersall, R Koper",
+        "auteur": "",
+        "Annee": "2006"
+      },
+      {
+        "Nom Article": "Encouraging contributions in learning networks using incentive mechanisms",
+        "description": "HGK Hummel, D Burgos, C Tattersall, F Brouns, H Kurvers, R Koper",
+        "auteur": "Journal of computer assisted learning 21 (5), 355-365, 2005",
+        "Annee": "2005"
+      },
+      {
+        "Nom Article": "Accessibility within open educational resources and practices for disabled learners: A systematic literature review",
+        "description": "X Zhang, A Tlili, F Nascimbeni, D Burgos, R Huang, TW Chang, M Jemni, ...",
+        "auteur": "Smart Learning Environments 7, 1-19, 2020",
+        "Annee": "2020"
+      },
+      {
+        "Nom Article": "A systematic review of systematic reviews on blended learning: Trends, gaps and future directions",
+        "description": "MA Ashraf, M Yang, Y Zhang, M Denden, A Tlili, J Liu, R Huang, D Burgos",
+        "auteur": "Psychology Research and Behavior Management, 1525-1541, 2021",
+        "Annee": "2021"
+      },
+      {
+        "Nom Article": "Developing advanced units of learning using IMS Learning Design level B",
+        "description": "R Koper, D Burgos",
+        "auteur": "",
+        "Annee": "2005"
+      },
+      {
+        "Nom Article": "Open educational resources and practices in China: A systematic literature review",
+        "description": "A Tlili, R Huang, TW Chang, F Nascimbeni, D Burgos",
+        "auteur": "Sustainability 11 (18), 4867, 2019",
+        "Annee": "2019"
+      },
+      {
+        "Nom Article": "Unveiling the relationship between the use of open educational resources and the adoption of open teaching practices in higher education",
+        "description": "F Nascimbeni, D Burgos",
+        "auteur": "Sustainability 11 (20), 5637, 2019",
+        "Annee": "2019"
+      }
+    ],
+    "Coauthors": [
+      {
+        "name": "Ahmed Tlili",
+        "university": "Associate Professor, Smart Learning Institute of Beijing Normal University"
+      },
+      {
+        "name": "Fabio Nascimbeni",
+        "university": "European Training Foundation"
+      },
+      {
+        "name": "Ronghuai Huang/黄荣怀",
+        "university": "Smart Learning Institute, Beijing Normal University"
+      },
+      {
+        "name": "Pablo Moreno Ger",
+        "university": "Associate Professor of Computer Science, Universidad Internacional de La Rioja"
+      },
+      {
+        "name": "Ruben Gonzalez Crespo",
+        "university": "Professor of Computer Science and Artificial Intelligence, Universidad Internacional de La Rioja"
+      },
+      {
+        "name": "Alberto Corbi Bellot",
+        "university": "Universidad Internacional de La Rioja"
+      }
+    ]
+  },
+  {
+    "Nom et Prénom": "laila amir",
+    "ASS - Unevercity": "fstg cadi ayyad",
+    "Spciality": "couplagetransport réactifintersection fracturemilieux poreux",
+    "Status Depuis 2018": [
+      {
+        "H indice": "5",
+        "Citations": "112",
+        "H indice_I10": "5"
+      }
+    ],
+    "Status Golobal": [
+      {
+        "H indice": "4",
+        "Citations": "42",
+        "H indice_I10": "1"
+      }
+    ],
+    "Article": [
+      {
+        "Nom Article": "A global method for coupling transport with chemistry in heterogeneous porous media",
+        "description": "L Amir, M Kern",
+        "auteur": "Computational Geosciences 14, 465-481, 2010",
+        "Annee": "2010"
+      },
+      {
+        "Nom Article": "Décomposition de domaine pour un milieu poreux fracturé: un modèle en 3D avec fractures",
+        "description": "L Amir, M Kern, JE Roberts, V Martin",
+        "auteur": "Revue Africaine de Recherche en Informatique et Mathématiques Appliquées 5, 2006",
+        "Annee": "2006"
+      },
+      {
+        "Nom Article": "Décomposition de domaine et préconditionnement pour un modele 3D en milieu poreux fracturé",
+        "description": "L Amir, M Kern, V Martin, JE Roberts",
+        "auteur": "Proceeding of JANO 8 (8), 2005",
+        "Annee": "2005"
+      },
+      {
+        "Nom Article": "Preconditioning a coupled model for reactive transport in porous media",
+        "description": "L Amir, M Kern",
+        "auteur": "arXiv preprint arXiv:1710.01483, 2017",
+        "Annee": "2017"
+      },
+      {
+        "Nom Article": "Newton-Krylov methods for coupling transport with chemistry in porous media",
+        "description": "L Amir, M Kern",
+        "auteur": "CMWR XVI, Copenhagen, 2006",
+        "Annee": "2006"
+      },
+      {
+        "Nom Article": "Modèles couplés en milieux poreux: transport réactif et fractures",
+        "description": "L Amir",
+        "auteur": "Université Paris Dauphine-Paris IX, 2008",
+        "Annee": "2008"
+      },
+      {
+        "Nom Article": "Jacobian Free Methods for Coupling Transport with Chemistry in Heterogenous Porous Media",
+        "description": "L Amir, M Kern",
+        "auteur": "Water 13 (3), 370, 2021",
+        "Annee": "2021"
+      },
+      {
+        "Nom Article": "Intersecting fractures in porous media: mathematical and numerical analysis",
+        "description": "L Amir, M Kern, Z Mghazli, JE Roberts",
+        "auteur": "Applicable Analysis 102 (5), 1312-1334, 2023",
+        "Annee": "2023"
+      },
+      {
+        "Nom Article": "Intersecting fractures in porous media: theoretical and numerical analysis",
+        "description": "L Amir, M Kern, Z Mghazli, J Roberts",
+        "auteur": "",
+        "Annee": "2021"
+      },
+      {
+        "Nom Article": "A nonlinear preconditioner for reactive transport in heterogenous porous media",
+        "description": "L Amir, M Kern",
+        "auteur": "Workshop SITRAM Advances in the SImulation of reactive flow and TRAnsport in …, 0",
+        "Annee": ""
+      },
+      {
+        "Nom Article": "Décomposition de domaine pour un milieu poreux fracturé",
+        "description": "L Amir, M Kern, V Martin, JE Roberts",
+        "auteur": "Tendances des Applications Mathématiques, 295, 0",
+        "Annee": ""
+      }
+    ],
+    "Coauthors": [
+      {
+        "name": "Michel Kern",
+        "university": "Inria"
+      },
+      {
+        "name": "Jean Roberts",
+        "university": "directeur de recherche, Inria"
+      }
+    ]
+  },
+  {
+    "Nom et Prénom": "Khadija Bouzaachane",
+    "ASS - Unevercity": "FST",
+    "Spciality": "statisques et informatiques",
+    "Status Depuis 2018": [
+      {
+        "H indice": "3",
+        "Citations": "38",
+        "H indice_I10": "3"
+      }
+    ],
+    "Status Golobal": [
+      {
+        "H indice": "3",
+        "Citations": "34",
+        "H indice_I10": "2"
+      }
+    ],
+    "Article": [
+      {
+        "Nom Article": "Hybridization of Fuzzy and Hard Semi-Supervised Clustering Algorithms Tuned with Ant Lion Optimizer Applied to Higgs Boson Search.",
+        "description": "S Mjahed, K Bouzaachane, AT Azar, S El Hadaj, S Raghay",
+        "auteur": "CMES-Computer Modeling in Engineering & Sciences 125 (2), 2020",
+        "Annee": "2020"
+      },
+      {
+        "Nom Article": "Engine fault signals diagnosis using genetic algorithm and K-means based clustering",
+        "description": "S Mjahed, S El Hadaj, K Bouzaachane, S Raghay",
+        "auteur": "Proceedings of the international conference on learning and optimization …, 2018",
+        "Annee": "2018"
+      },
+      {
+        "Nom Article": "Improved PSO based K-means clustering applied to fault signals diagnosis",
+        "description": "S Mjahed, S El Hadaj, K Bouzaachane, S Raghay",
+        "auteur": "2018 International Conference on Control, Automation and Diagnosis (ICCAD), 1-6, 2018",
+        "Annee": "2018"
+      },
+      {
+        "Nom Article": "Modeles de séries chronologiques bilinéaires: estimations, algorithmes et applications",
+        "description": "K Bouzaâchane",
+        "auteur": "Ecole Mohammadia d'Ingénieurs, 2006",
+        "Annee": "2006"
+      },
+      {
+        "Nom Article": "Parameter estimation for pure diagonal bilinear time series: An algorithm for maximum likelihood procedure",
+        "description": "B Khadija, H Mostafa, B Youseef",
+        "auteur": "Interstat Journal of Statistics, ISSN d0000056 online, http://interstat …, 2007",
+        "Annee": "2007"
+      },
+      {
+        "Nom Article": "Automatic detection of covid-19 using CNN model combined with Firefly algorithm",
+        "description": "B Khadija",
+        "auteur": "2022 8th International Conference on Optimization and Applications (ICOA), 1-4, 2022",
+        "Annee": "2022"
+      },
+      {
+        "Nom Article": "Applying Face Recognition in Video Surveillance for Security Systems",
+        "description": "K Bouzaachane",
+        "auteur": "2022 8th International Conference on Optimization and Applications (ICOA), 1-5, 2022",
+        "Annee": "2022"
+      },
+      {
+        "Nom Article": "Helicopter Main Rotor Fault Diagnosis by Using GA-and PSO-based Classifiers",
+        "description": "S Mjahed, S El Hadaj, K Bouzaachane, S Raghay",
+        "auteur": "Studies in Informatics and Control 29 (1), 5-15, 2020",
+        "Annee": "2020"
+      },
+      {
+        "Nom Article": "Bilineair time series models: Estimation, Algorithm and application",
+        "description": "K Bouzaâchane",
+        "auteur": "HAL 2006, 2006",
+        "Annee": "2006"
+      },
+      {
+        "Nom Article": "Modèles de séries chronologiques Bilinéaires: Estimations, Algorithmes et Applications.(Bilineair time series models: Estimation, Algorithm and application).",
+        "description": "K Bouzaâchane",
+        "auteur": "École Mohammadia d'ingénieurs, Rabat, Morocco, 2006",
+        "Annee": "2006"
+      },
+      {
+        "Nom Article": "Parameter estimation for first-order superdiagonal bilinear time series: An algorithm for maximum likelihood procedure",
+        "description": "B Khadija, H Mostafa, B Youssef",
+        "auteur": "Interstat 7 (11), 2006",
+        "Annee": "2006"
+      },
+      {
+        "Nom Article": "Backpropagation and PSO-GA based Optimizations for a Neural Network Classification of Engine Fault Signals",
+        "description": "S Mjahed, S El Hadaj, K Bouzaachane, S Raghay",
+        "auteur": "",
+        "Annee": ""
+      },
+      {
+        "Nom Article": "First-order superdiagonal bilinear time series for tracking software reliability",
+        "description": "B Khadija, H Mostafa, B Youssef",
+        "auteur": "",
+        "Annee": ""
+      }
+    ],
+    "Coauthors": []
+  },
+  {
+    "Nom et Prénom": "Prof. Ahmad Taher Azar, IEEE and IRSS Senior Member, ACM, ISA and IFAC member.",
+    "ASS - Unevercity": "Full Professor,Prince Sultan University, SA and Full Professor, Benha University, EG.",
+    "Spciality": "Artificial IntelligenceRoboticsControl Theory & ApplicationsReinforcement learning",
+    "Status Depuis 2018": [
+      {
+        "H indice": "69",
+        "Citations": "17970",
+        "H indice_I10": "69"
+      }
+    ],
+    "Status Golobal": [
+      {
+        "H indice": "56",
+        "Citations": "13476",
+        "H indice_I10": "328"
+      }
+    ],
+    "Article": [
+      {
+        "Nom Article": "Feature selection via a novel chaotic crow search algorithm",
+        "description": "GI Sayed, AE Hassanien, AT Azar",
+        "auteur": "Neural computing and applications 31, 171-188, 2019",
+        "Annee": "2019"
+      },
+      {
+        "Nom Article": "Chaos Modeling and Control Systems Design",
+        "description": "AT Azar, S Vaidyanathan",
+        "auteur": "Studies in Computational Intelligence, Springer, 2015",
+        "Annee": "2015"
+      },
+      {
+        "Nom Article": "Supervised hybrid feature selection based on PSO and rough sets for medical diagnosis",
+        "description": "HH Inbarani, AT Azar, G Jothi",
+        "auteur": "Computer methods and programs in biomedicine 113 (1), 175-185, 2014",
+        "Annee": "2014"
+      },
+      {
+        "Nom Article": "Computational Intelligence Applications in Modeling and Control",
+        "description": "AT Azar, S Vaidyanathan",
+        "auteur": "Studies in Computational Intelligence, Springer, 2015",
+        "Annee": "2015"
+      },
+      {
+        "Nom Article": "Advances and Applications in Sliding Mode Control systems",
+        "description": "AT Azar, Q Zhu",
+        "auteur": "Studies in Computational Intelligence, Springer, 2015",
+        "Annee": "2015"
+      },
+      {
+        "Nom Article": "Complex System Modelling and Control Through Intelligent Soft Computations",
+        "description": "Q Zhu, AT Azar",
+        "auteur": "Studies in Fuzziness and Soft Computing, Springer, 2015",
+        "Annee": "2015"
+      },
+      {
+        "Nom Article": "Advances in Chaos Theory and Intelligent Control",
+        "description": "AT Azar, S Vaidyanathan",
+        "auteur": "Springer, 2016",
+        "Annee": "2016"
+      },
+      {
+        "Nom Article": "Performance analysis of support vector machines classifiers in breast cancer mammography recognition",
+        "description": "AT Azar, SA El-Said",
+        "auteur": "Neural Computing and Applications 24 (5), 1163-1177, 2014",
+        "Annee": "2014"
+      },
+      {
+        "Nom Article": "Decision tree classifiers for automated medical diagnosis",
+        "description": "AT Azar, SM El-Metwally",
+        "auteur": "Neural Computing & Applications 23 (7-8), 2387-2403, 2013",
+        "Annee": "2013"
+      },
+      {
+        "Nom Article": "Fractional order control and synchronization of chaotic systems",
+        "description": "AT Azar, S Vaidyanathan, A Ouannas",
+        "auteur": "Springer, 2017",
+        "Annee": "2017"
+      },
+      {
+        "Nom Article": "A random forest classifier for lymph diseases",
+        "description": "AT Azar, HI Elshazly, AE Hassanien, AM Elkorany",
+        "auteur": "Computer Methods and Programs in Biomedicine 113 (2), 465–473, 2014",
+        "Annee": "2014"
+      },
+      {
+        "Nom Article": "Adaptive neuro-fuzzy systems",
+        "description": "AT Azar",
+        "auteur": "Fuzzy systems, 2010",
+        "Annee": "2010"
+      },
+      {
+        "Nom Article": "Backstepping controller design for the global chaos synchronization of Sprott’s jerk systems",
+        "description": "S Vaidyanathan, BA Idowu, AT Azar",
+        "auteur": "Chaos modeling and control systems design, 39-58, 2015",
+        "Annee": "2015"
+      },
+      {
+        "Nom Article": "Global chaos synchronisation of identical chaotic systems via novel sliding mode control method and its application to Zhu system",
+        "description": "S Vaidyanathan, S Sampath, AT Azar",
+        "auteur": "International Journal of Modelling, Identification and Control 23 (1), 92-100, 2015",
+        "Annee": "2015"
+      },
+      {
+        "Nom Article": "Dimensionality reduction of medical big data using neural-fuzzy classifier",
+        "description": "AT Azar, AE Hassanien",
+        "auteur": "Soft computing 19 (4), 1115-1127, 2015",
+        "Annee": "2015"
+      },
+      {
+        "Nom Article": "Analysis, control and synchronization of a nine-term 3-D novel chaotic system",
+        "description": "S Vaidyanathan, AT Azar",
+        "auteur": "Chaos modeling and control systems design, 19-38, 2015",
+        "Annee": "2015"
+      },
+      {
+        "Nom Article": "Adaptive k-means clustering algorithm for MR breast image segmentation",
+        "description": "HM Moftah, AT Azar, ET Al-Shammari, NI Ghali, AE Hassanien, ...",
+        "auteur": "Neural Computing and Applications 24 (7-8), 1917-1928, 2014",
+        "Annee": "2014"
+      },
+      {
+        "Nom Article": "Anti-synchronization of identical chaotic systems using sliding mode control and an application to vaidyanathan–madhavan chaotic systems",
+        "description": "S Vaidyanathan, AT Azar",
+        "auteur": "Advances and applications in sliding mode control systems, 527-547, 2014",
+        "Annee": "2014"
+      },
+      {
+        "Nom Article": "Hybrid synchronization of identical chaotic systems using sliding mode control and an application to Vaidyanathan chaotic systems",
+        "description": "S Vaidyanathan, AT Azar",
+        "auteur": "Advances and applications in sliding mode control systems, 549-569, 2014",
+        "Annee": "2014"
+      },
+      {
+        "Nom Article": "A novel hybrid feature selection method based on rough set and improved harmony search",
+        "description": "HH Inbarani, M Bagyamathi, AT Azar",
+        "auteur": "Neural Computing and Applications, 1-22, 2015",
+        "Annee": "2015"
+      }
+    ],
+    "Coauthors": [
+      {
+        "name": "Sundarapandian Vaidyanathan",
+        "university": "Professor and Dean, R & D Centre, Vel Tech University, Chennai, INDIA"
+      },
+      {
+        "name": "Aboul Ella Hassanien Ali",
+        "university": "CAIRO UNIVERSITY"
+      },
+      {
+        "name": "Fernando E. Serrano (ORCID: 0000-0...",
+        "university": "Investigador Invitado, IIE, Universidad Nacional Autónoma de Honduras UNAH"
+      },
+      {
+        "name": "Nashwa Ahmad Kamal",
+        "university": "Cairo University, Egypt. Managing Editor of IJSDA, IJSSMET, IGI-Global, USA and IJIEI, Inderscience"
+      },
+      {
+        "name": "Ibraheem Kasim Ibraheem (orcid.org/0...",
+        "university": "University of Baghdad, college of engineering, electrical engineering department, IEEE senior member"
+      },
+      {
+        "name": "Hannah Inbarani H",
+        "university": "periyar university"
+      },
+      {
+        "name": "Quanmin Zhu",
+        "university": "Professor, University of the West of England, Bristol UK"
+      },
+      {
+        "name": "FEKIK Arezki",
+        "university": "Engineering & Technology / Electrical & Electronic Engineering"
+      },
+      {
+        "name": "Ibrahim A. Hameed (orcid:0000-0003-...",
+        "university": "PhD, Professor, Norwegian University of Science and Technology, SMIEEE"
+      },
+      {
+        "name": "Djalel Dib",
+        "university": "Professor, University larbi Tebessi of Tebessa"
+      },
+      {
+        "name": "Hakim Denoun",
+        "university": "Professor- Université Mouloud Mammeri Tizi-Ouzou (UMMTO) --LATAGE Laboratory- Algeria."
+      },
+      {
+        "name": "Mohamed Lamine HAMIDA",
+        "university": "Dr. Electrical Engineering - Mouloud Mammeri Universty  -Tizi Ouzou- LATAGE Laboratory- Algeria"
+      },
+      {
+        "name": "Dr. Tulasichandra Sekhar Gorripotu;...",
+        "university": "Sri Sivani College of Engineering, Srikakulam"
+      },
+      {
+        "name": "Alaa Khamis",
+        "university": "AI & Smart Mobility Technical Leader and Former AI & Robotics Professor"
+      },
+      {
+        "name": "Aceng Sambas",
+        "university": "Departement of Mechanical Engineering, Universitas Muhammadiyah Tasikmalaya"
+      },
+      {
+        "name": "Khaled Wahba",
+        "university": "Associate Professor of Biomedical Engineering, Cairo University, Egypt"
+      },
+      {
+        "name": "Prof. (Dr.) Vineet Kumar",
+        "university": "Professor, NSUT (Formerly, Netaji Subhas Institute of Technology)"
+      },
+      {
+        "name": "Dr. Ramana Pilla, Ph.D",
+        "university": "Professor, Dept. of EEE, GMRIT, Rajam, AP-532127"
+      },
+      {
+        "name": "Valentina E. Balas",
+        "university": "Professor, Aurel Vlaicu University of Arad / Academy of Romanian Scientists, ROMANIA"
+      },
+      {
+        "name": "Giuseppe Grassi",
+        "university": "University of Salento - Department of Engineering for Innovation - Full Professor"
+      }
+    ]
+  },
+  {
+    "Nom et Prénom": "SOULAIMANE KALOUN",
+    "ASS - Unevercity": "professeur Physique-Informatique,Université Cadi Ayyad Marrakech",
+    "Spciality": "big datamaching learningDeep learning",
+    "Status Depuis 2018": [
+      {
+        "H indice": "6",
+        "Citations": "249",
+        "H indice_I10": "6"
+      }
+    ],
+    "Status Golobal": [
+      {
+        "H indice": "6",
+        "Citations": "135",
+        "H indice_I10": "4"
+      }
+    ],
+    "Article": [
+      {
+        "Nom Article": "Diagram of the aging dynamics in laponite suspensions at low ionic strength",
+        "description": "F Schosseler, S Kaloun, M Skouri, JP Munch",
+        "auteur": "Physical Review E 73 (2), 021401, 2006",
+        "Annee": "2006"
+      },
+      {
+        "Nom Article": "Successive exponential and full aging regimes evidenced by tracer diffusion in a colloidal glass",
+        "description": "S Kaloun, R Skouri, M Skouri, JP Munch, F Schosseler",
+        "auteur": "Physical Review E 72 (1), 011403, 2005",
+        "Annee": "2005"
+      },
+      {
+        "Nom Article": "Exploring destination’s negative e-reputation using aspect based sentiment  analysis approach: Case of Marrakech destination on TripAdvisor",
+        "description": "A Twil, M Bidan, O Bencharef, S Kaloun, L Safaa",
+        "auteur": "Tourism Management Perspectives 40 (100892), 2021",
+        "Annee": "2021"
+      },
+      {
+        "Nom Article": "Aging of a colloidal glass under a periodic shear",
+        "description": "S Kaloun, M Skouri, A Knaebel, JP Münch, P Hébraud",
+        "auteur": "Physical Review E 72 (1), 011401, 2005",
+        "Annee": "2005"
+      },
+      {
+        "Nom Article": "An improved recommender system solution to mitigate the over-specialization problem using genetic algorithms",
+        "description": "O Stitini, S Kaloun, O Bencharef",
+        "auteur": "Electronics 11 (2), 242, 2022",
+        "Annee": "2022"
+      },
+      {
+        "Nom Article": "Towards the detection of fake news on social networks contributing to the improvement of trust and transparency in recommendation systems: trends and challenges",
+        "description": "O Stitini, S Kaloun, O Bencharef",
+        "auteur": "Information 13 (3), 128, 2022",
+        "Annee": "2022"
+      },
+      {
+        "Nom Article": "Latest Trends in Recommender Systems applied in the medical domain: A Systematic Review",
+        "description": "S Oumaima, K Soulaimane, B Omar",
+        "auteur": "Proceedings of the 3rd International Conference on Networking, Information …, 2020",
+        "Annee": "2020"
+      },
+      {
+        "Nom Article": "Integrating contextual information into multi-class classification to improve the context-aware recommendation",
+        "description": "O Stitini, S Kaloun, O Bencharef",
+        "auteur": "Procedia Computer Science 198, 311-316, 2022",
+        "Annee": "2022"
+      },
+      {
+        "Nom Article": "The Recommendation of a Practical Guide for Doctoral Students Using Recommendation System Algorithms in the Education Field",
+        "description": "BO Stitini Oumaima, Kaloun Soulaimane",
+        "auteur": "Innovations in Smart Cities Applications 4, 240-254, 2021",
+        "Annee": "2021"
+      },
+      {
+        "Nom Article": "Analyzing tourism reviews using an LDA topic-based sentiment analysis approach",
+        "description": "T Ali, B Omar, K Soulaimane",
+        "auteur": "MethodsX 9, 101894, 2022",
+        "Annee": "2022"
+      },
+      {
+        "Nom Article": "Artificial Intelligence in Predicting the Spread of Coronavirus to Ensure Healthy Living for All Age Groups",
+        "description": "S Oumaima, K Soulaimane, B Omar",
+        "auteur": "Emerging Trends in ICT for Sustainable Development, 11-18, 2021",
+        "Annee": "2021"
+      },
+      {
+        "Nom Article": "A Deep Learning to Distinguish COVID-19 from Others Pneumonia Cases",
+        "description": "BO Sami Gazzah, Rida Bayi, Kaloun Soulaimane",
+        "auteur": "Intelligent Automation & Soft Computing 31 (2), 677-692, 2021",
+        "Annee": "2021"
+      },
+      {
+        "Nom Article": "Latest Trends in Recommender Systems applied in the medical domain: A Systematic Review.",
+        "description": "O Stitini, S Kaloun, O Bencharef",
+        "auteur": "NISS, 41:1-41:12, 2020",
+        "Annee": "2020"
+      },
+      {
+        "Nom Article": "A semantic approach for mathematical expression retrieval",
+        "description": "Z Asebriy, S Kaloun, S Raghay, O Bencharef",
+        "auteur": "International Journal of Advanced Computer Science and Applications 7 (9), 2016",
+        "Annee": "2016"
+      },
+      {
+        "Nom Article": "The Use of a Genetic Algorithm to Alleviate the Limited Content Issue in a Content-Based Recommendation System",
+        "description": "OB Oumaima Stitini, Soulaimane KALOUN",
+        "auteur": "ICAISE 2022: Artificial Intelligence and Smart Environment, 776–782, 2023",
+        "Annee": "2023"
+      },
+      {
+        "Nom Article": "Investigating Different Similarity Metrics Used in Various Recommender Systems Types: Scenario Cases",
+        "description": "O Stitini, S Kaloun, O Bencharef",
+        "auteur": "The International Archives of the Photogrammetry, Remote Sensing and Spatial …, 2022",
+        "Annee": "2022"
+      },
+      {
+        "Nom Article": "Restricted diffusion of small probe particles in a laponite dispersion",
+        "description": "P Klajner, S Kaloun, JP Münch, P Hebraud",
+        "auteur": "Physical Review E 88 (3), 032308, 2013",
+        "Annee": "2013"
+      },
+      {
+        "Nom Article": "HOW CAN WE ANALYSE EMOTIONS ON TWITTER DURING AN EPIDEMIC SITUATION? A FEATURES ENGINEERING APPROACH TO EVALUATE PEOPLE’S EMOTIONS DURING THE COVID-19 PANDEMIC.",
+        "description": "O Stitini, A Twil, S Kaloun, O Bencharef",
+        "auteur": "",
+        "Annee": "2021"
+      },
+      {
+        "Nom Article": "Towards a robust solution to mitigate all content-based filtering drawbacks within a recommendation system",
+        "description": "O Stitini, S Kaloun, O Bencharef",
+        "auteur": "International Journal of Systematic Innovation 7 (7), 89-111, 2023",
+        "Annee": "2023"
+      },
+      {
+        "Nom Article": "Towards Ideal and Efficient Recommendation Systems Based on the Five Evaluation Concepts Promoting Serendipity",
+        "description": "O Stitini, I García-Magariño, S Kaloun, O Bencharef",
+        "auteur": "Journal of Advances in Information Technology 14 (4), 2023",
+        "Annee": "2023"
+      }
+    ],
+    "Coauthors": [
+      {
+        "name": "Mohammed Skouri",
+        "university": "Professeur de physique, Université Cadi Ayyad Marrakech"
+      }
+    ]
+  },
+  {
+    "Nom et Prénom": "Aziz Darouichi",
+    "ASS - Unevercity": "FST-Marrakech",
+    "Spciality": "Artificial Intelligence & Computational Science",
+    "Status Depuis 2018": [
+      {
+        "H indice": "4",
+        "Citations": "35",
+        "H indice_I10": "4"
+      }
+    ],
+    "Status Golobal": [
+      {
+        "H indice": "4",
+        "Citations": "32",
+        "H indice_I10": "1"
+      }
+    ],
+    "Article": [
+      {
+        "Nom Article": "A stochastic optimal control model for BCG immunotherapy in superficial bladder cancer",
+        "description": "R Aboulaich, A Darouichi, I Elmouki, A Jraifi",
+        "auteur": "Mathematical Modelling of Natural Phenomena 12 (5), 99-119, 2017",
+        "Annee": "2017"
+      },
+      {
+        "Nom Article": "Mode Collapse in Generative Adversarial Networks: An Overview",
+        "description": "Y Kossale, M Airaj, A Darouichi",
+        "auteur": "2022 8th International Conference on Optimization and Applications (ICOA), 1-6, 2022",
+        "Annee": "2022"
+      },
+      {
+        "Nom Article": "A posteriori error estimate for a one-dimensional pollution problem in porous media",
+        "description": "R Aboulaich, B Achchab, A Darouichi",
+        "auteur": "Comptes Rendus. Mathématique 347 (19-20), 1217-1222, 2009",
+        "Annee": "2009"
+      },
+      {
+        "Nom Article": "Parameter identification by optimization method for a pollution problem in porous media",
+        "description": "R Aboulaich, B Achchab, A Darouichi",
+        "auteur": "Acta Mathematica Scientia 38 (4), 1345-1360, 2018",
+        "Annee": "2018"
+      },
+      {
+        "Nom Article": "A study of a pollution problem in porous media during vapor extraction",
+        "description": "R Aboulaich, B Achchab, A Darouchi, D Meskine",
+        "auteur": "J. Math. Sci. Adv. Appl. Math 1 (3), 635-662, 2008",
+        "Annee": "2008"
+      },
+      {
+        "Nom Article": "Optimal Control: Application and Applicability in Times of Pandemics",
+        "description": "I Elmouki, L Zhong, A Jraifi, A Darouichi",
+        "auteur": "Integrated Science of Global Epidemics, 191-210, 2023",
+        "Annee": "2023"
+      },
+      {
+        "Nom Article": "Integrated Science of Global Epidemics 2050",
+        "description": "N Rezaei, A Saghazadeh, A Jraifi, A Siani, AMP Arredondo, AB Onoja, ...",
+        "auteur": "Integrated Science of Global Epidemics, 587-607, 2023",
+        "Annee": "2023"
+      },
+      {
+        "Nom Article": "Images Segmentation using Deep Learning Algorithms and Metaheuristics",
+        "description": "D Aziz, O Aziz",
+        "auteur": "2022 8th International Conference on Optimization and Applications (ICOA), 1-6, 2022",
+        "Annee": "2022"
+      },
+      {
+        "Nom Article": "Tikhonov regularization for the calibration of the Drift term in an asset-pricing stochastic volatility jump-diffusion model",
+        "description": "A Jraifi, R Aboulaich, A Darouichi, I Medarhri, I Elmouki",
+        "auteur": "Local Organizing Committee, 108, 0",
+        "Annee": ""
+      }
+    ],
+    "Coauthors": []
+  },
+  {
+    "Nom et Prénom": "BOUJEMAA ACHCHAB",
+    "ASS - Unevercity": "Professeur de mathématiques et applications, Université Hassan 1er Settat",
+    "Spciality": "Analyse numériqueDataminingModélisation",
+    "Status Depuis 2018": [
+      {
+        "H indice": "13",
+        "Citations": "758",
+        "H indice_I10": "13"
+      }
+    ],
+    "Status Golobal": [
+      {
+        "H indice": "10",
+        "Citations": "505",
+        "H indice_I10": "12"
+      }
+    ],
+    "Article": [
+      {
+        "Nom Article": "BreakHis based breast cancer automatic diagnosis using deep learning: Taxonomy, survey and insights",
+        "description": "Y Benhammou, B Achchab, F Herrera, S Tabik",
+        "auteur": "Neurocomputing 375, 9-24, 2020",
+        "Annee": "2020"
+      },
+      {
+        "Nom Article": "A first study exploring the performance of the state-of-the art CNN model in the problem of breast cancer",
+        "description": "Y Benhammou, S Tabik, B Achchab, F Herrera",
+        "auteur": "proceedings of the international conference on learning and optimization …, 2018",
+        "Annee": "2018"
+      },
+      {
+        "Nom Article": "Estimateur d'erreur a posteriori hiérarchique. Application aux éléments finis mixtes",
+        "description": "B Achchab, A Agouzal, J Baranger, JF Maître",
+        "auteur": "Numerische Mathematik 80, 159-179, 1998",
+        "Annee": "1998"
+      },
+      {
+        "Nom Article": "The 0/1 multidimensional knapsack problem and its variants: A survey of practical models and heuristic approaches",
+        "description": "S Laabadi, M Naimi, H El Amri, B Achchab",
+        "auteur": "American Journal of Operations Research 8 (05), 395, 2018",
+        "Annee": "2018"
+      },
+      {
+        "Nom Article": "Estimate of the constant in two strengthened CBS inequalities for FEM systems of 2D elasticity: application to multilevel methods and a posteriori error estimators",
+        "description": "B Achchab, JF Maitre",
+        "auteur": "Numerical linear algebra with applications 3 (2), 147-159, 1996",
+        "Annee": "1996"
+      },
+      {
+        "Nom Article": "Strengthened Cauchy–Bunyakowski–Schwarz inequality for a three‐dimensional elasticity system",
+        "description": "B Achchab, O Axelsson, L Laayouni, A Souissi",
+        "auteur": "Numerical Linear Algebra with Applications 8 (3), 191-205, 2001",
+        "Annee": "2001"
+      },
+      {
+        "Nom Article": "A binary crow search algorithm for solving two-dimensional bin packing problem with fixed orientation",
+        "description": "S Laabadi, M Naimi, H El Amri, B Achchab",
+        "auteur": "Procedia Computer Science 167, 809-818, 2020",
+        "Annee": "2020"
+      },
+      {
+        "Nom Article": "Pricing of Sukuk Musharakah with joint venture as underlying, beyond the use of PLS ratio",
+        "description": "R Ahroum, B Achchab",
+        "auteur": "Journal of Islamic Accounting and business research 8 (4), 406-419, 2017",
+        "Annee": "2017"
+      },
+      {
+        "Nom Article": "Some remarks about the hierarchical a posteriori error estimate",
+        "description": "B Achchab, S Achchab, A Agouzal",
+        "auteur": "Numerical Methods for Partial Differential Equations: An International …, 2004",
+        "Annee": "2004"
+      },
+      {
+        "Nom Article": "Modeling car loan prepayment using supervised machine learning",
+        "description": "S Zahi, B Achchab",
+        "auteur": "Procedia Computer Science 170, 1128-1133, 2020",
+        "Annee": "2020"
+      },
+      {
+        "Nom Article": "Murabaha and Musharakah Moutanaquissah pricing: an interest-free approach",
+        "description": "R Ahroum, O Touri, B Achchab",
+        "auteur": "Journal of Islamic Accounting and Business Research 11 (1), 201-215, 2020",
+        "Annee": "2020"
+      },
+      {
+        "Nom Article": "On the computational complexity of Dempster’s rule of combination, a parallel computing approach",
+        "description": "M Benalla, B Achchab, H Hrimech",
+        "auteur": "Journal of Computational Science 50, 101283, 2021",
+        "Annee": "2021"
+      },
+      {
+        "Nom Article": "The stochastic Weibull diffusion process: Computational aspects and simulation",
+        "description": "A Nafidi, M Bahij, B Achchab, R Gutiérrez-Sánchez",
+        "auteur": "Applied Mathematics and Computation 348, 575-587, 2019",
+        "Annee": "2019"
+      },
+      {
+        "Nom Article": "Robust hierarchical a posteriori error estimators for stabilized convection–diffusion problems",
+        "description": "B Achchab, A Agouzal, M El Fatini, A Souissi",
+        "auteur": "Numerical Methods for Partial Differential Equations 28 (5), 1717-1728, 2012",
+        "Annee": "2012"
+      },
+      {
+        "Nom Article": "Sentinel2GlobalLULC: A Sentinel-2 RGB image tile dataset for global land use/cover mapping with deep learning",
+        "description": "Y Benhammou, D Alcaraz-Segura, E Guirado, R Khaldi, B Achchab, ...",
+        "auteur": "Scientific Data 9 (1), 681, 2022",
+        "Annee": "2022"
+      },
+      {
+        "Nom Article": "Les défis de l’intelligence économique au Maroc",
+        "description": "B Achchab, D Harrizi",
+        "auteur": "La Revue Gestion et Organisation 5 (2), 130-137, 2013",
+        "Annee": "2013"
+      },
+      {
+        "Nom Article": "Formulations mixtes augmentées et applications",
+        "description": "B Achchab, A Agouzal",
+        "auteur": "ESAIM: Mathematical Modelling and Numerical Analysis 33 (3), 459-478, 1999",
+        "Annee": "1999"
+      },
+      {
+        "Nom Article": "A crow search-based genetic algorithm for solving two-dimensional bin packing problem",
+        "description": "S Laabadi, M Naimi, H El Amri, B Achchab",
+        "auteur": "KI 2019: Advances in Artificial Intelligence: 42nd German Conference on AI …, 2019",
+        "Annee": "2019"
+      },
+      {
+        "Nom Article": "Investment strategies with rebalancing: How could they serve Sukuk secondary market?",
+        "description": "R Ahroum, O Touri, FZ Sabiq, B Achchab",
+        "auteur": "Borsa Istanbul Review 18 (2), 91-100, 2018",
+        "Annee": "2018"
+      },
+      {
+        "Nom Article": "A distributed intelligent system for emergency convoy",
+        "description": "M Benalla, B Achchab, H Hrimech",
+        "auteur": "International Journal of Interactive Multimedia and Artificial Intelligence …, 2016",
+        "Annee": "2016"
+      }
+    ],
+    "Coauthors": []
+  },
+  {
+    "Nom et Prénom": "Ilias Elmouki",
+    "ASS - Unevercity": "Affiliation inconnue",
+    "Spciality": "Systems Theory",
+    "Status Depuis 2018": [
+      {
+        "H indice": "15",
+        "Citations": "595",
+        "H indice_I10": "15"
+      }
+    ],
+    "Status Golobal": [
+      {
+        "H indice": "12",
+        "Citations": "462",
+        "H indice_I10": "17"
+      }
+    ],
+    "Article": [
+      {
+        "Nom Article": "On the analysis of a multi-regions discrete SIR epidemic model: an optimal control approach",
+        "description": "O Zakary, M Rachik, I Elmouki",
+        "auteur": "International Journal of Dynamics and Control 5, 917-930, 2017",
+        "Annee": "2017"
+      },
+      {
+        "Nom Article": "Effect of awareness programs and travel-blocking operations in the control of HIV/AIDS outbreaks: a multi-domains SIR model",
+        "description": "O Zakary, A Larrache, M Rachik, I Elmouki",
+        "auteur": "Advances in Difference Equations 2016 (1), 1-17, 2016",
+        "Annee": "2016"
+      },
+      {
+        "Nom Article": "A multi‐regional epidemic model for controlling the spread of Ebola: awareness, treatment, and travel‐blocking optimal control approaches",
+        "description": "O Zakary, M Rachik, I Elmouki",
+        "auteur": "Mathematical Methods in the Applied Sciences 40 (4), 1265-1279, 2017",
+        "Annee": "2017"
+      },
+      {
+        "Nom Article": "On the impact of awareness programs in HIV/AIDS prevention: an SIR model with optimal control",
+        "description": "O Zakary, M Rachik, I Elmouki",
+        "auteur": "Int. J. Comput. Appl 133 (9), 1-6, 2016",
+        "Annee": "2016"
+      },
+      {
+        "Nom Article": "A new analysis of infection dynamics: multi-regions discrete epidemic model with an extended optimal control approach",
+        "description": "O Zakary, M Rachik, I Elmouki",
+        "auteur": "International Journal of Dynamics and Control 5, 1010-1019, 2017",
+        "Annee": "2017"
+      },
+      {
+        "Nom Article": "A new epidemic modeling approach: Multi-regions discrete-time model with travel-blocking vicinity optimal control strategy",
+        "description": "O Zakary, M Rachik, I Elmouki",
+        "auteur": "Infectious Disease Modelling 2 (3), 304-322, 2017",
+        "Annee": "2017"
+      },
+      {
+        "Nom Article": "Quadratic and linear controls developing an optimal treatment for the use of BCG immunotherapy in superficial bladder cancer",
+        "description": "I Elmouki, S Saadi",
+        "auteur": "Optimal Control Applications and Methods 37 (1), 176-189, 2016",
+        "Annee": "2016"
+      },
+      {
+        "Nom Article": "A multi-regions SIS discrete influenza pandemic model with a travel-blocking vicinity optimal control approach on cells",
+        "description": "I Abouelkheir, M Rachik, O Zakary, I Elmouk",
+        "auteur": "Am. J. Comput. Appl. Math 7 (2), 37-45, 2017",
+        "Annee": "2017"
+      },
+      {
+        "Nom Article": "BCG immunotherapy optimization on an isoperimetric optimal control problem for the treatment of superficial bladder cancer",
+        "description": "I Elmouki, S Saadi",
+        "auteur": "International Journal of Dynamics and Control 4, 339-345, 2016",
+        "Annee": "2016"
+      },
+      {
+        "Nom Article": "Optimal impulse vaccination approach for an SIR control model with short-term immunity",
+        "description": "I Abouelkheir, F El Kihal, M Rachik, I Elmouki",
+        "auteur": "Mathematics 7 (5), 420, 2019",
+        "Annee": "2019"
+      },
+      {
+        "Nom Article": "A multi-regions SIRS discrete epidemic model with a travel-blocking vicinity optimal control approach on cells",
+        "description": "I Abouelkheir, F Kihal, M Rachik, O Zakary, I Elmouki",
+        "auteur": "British Journal of Mathematics & Computer Science 20 (4), 1-16, 2017",
+        "Annee": "2017"
+      },
+      {
+        "Nom Article": "A multi-regions SEIRS discrete epidemic model with a travel-blocking vicinity optimal control approach on cells",
+        "description": "F El Kihal, M Rachik, O Zakary, I Elmouki",
+        "auteur": "Int. J. Adv. Appl. Math. Mech 4 (3), 60-71, 2017",
+        "Annee": "2017"
+      },
+      {
+        "Nom Article": "Optimal control with an isoperimetric constraint applied to cancer immunotherapy",
+        "description": "A Hamdache, I Elmouki, S Saadi",
+        "auteur": "International Journal of Computer Applications 94 (15), 2014",
+        "Annee": "2014"
+      },
+      {
+        "Nom Article": "A multi-regions discrete-time epidemic model with a travel-blocking vicinity optimal control approach on patches",
+        "description": "O Zakary, M Rachik, I Elmouki, S Lazaiz",
+        "auteur": "Advances in Difference Equations 2017, 1-25, 2017",
+        "Annee": "2017"
+      },
+      {
+        "Nom Article": "Optimal control and computational method for the resolution of isoperimetric problem in a discrete-time SIRS system",
+        "description": "F El Kihal, I Abouelkheir, M Rachik, I Elmouki",
+        "auteur": "Mathematical and Computational Applications 23 (4), 52, 2018",
+        "Annee": "2018"
+      },
+      {
+        "Nom Article": "Mixed immunotherapy and chemotherapy of tumors: optimal control approach",
+        "description": "S Zouhri, S Saadi, I Elmouki, A Hamdache, M Rachik",
+        "auteur": "IJCSI Int J Comput Sci 10 (4), 81-97, 2013",
+        "Annee": "2013"
+      },
+      {
+        "Nom Article": "Nominal and neighboring-optimal control approaches to the adoptive immunotherapy for cancer",
+        "description": "A Hamdache, S Saadi, I Elmouki",
+        "auteur": "International Journal of Dynamics and Control 4, 346-361, 2016",
+        "Annee": "2016"
+      },
+      {
+        "Nom Article": "Role of Media and Effects of Infodemics and Escapes in the Spatial Spread of Epidemics: A Stochastic Multi-Region Model with Optimal Control Approach",
+        "description": "F El Kihal, I Abouelkheir, M Rachik, I Elmouki",
+        "auteur": "Mathematics 7 (3), 1-24, 2019",
+        "Annee": "2019"
+      },
+      {
+        "Nom Article": "Time needed to control an epidemic with restricted resources in SIR model with short-term controlled population: A fixed point method for a free isoperimetric optimal control …",
+        "description": "I Abouelkheir, F El Kihal, M Rachik, I Elmouki",
+        "auteur": "Mathematical and Computational Applications 23 (4), 64, 2018",
+        "Annee": "2018"
+      },
+      {
+        "Nom Article": "A stochastic optimal control model for BCG immunotherapy in superficial bladder cancer",
+        "description": "R Aboulaich, A Darouichi, I Elmouki, A Jraifi",
+        "auteur": "Mathematical Modelling of Natural Phenomena 12 (5), 99-119, 2017",
+        "Annee": "2017"
+      }
+    ],
+    "Coauthors": [
+      {
+        "name": "Rachik Mostafa",
+        "university": "Hassan II University of Casablanca"
+      },
+      {
+        "name": "Zakary Omar",
+        "university": "Faculty of Sciences Ben M’Sik, Hassan II University of Casablanca"
+      },
+      {
+        "name": "Aziz Darouichi",
+        "university": "FST-Marrakech"
+      },
+      {
+        "name": "Khalid Satori",
+        "university": "Université sidi mohamed ben abdellah"
+      },
+      {
+        "name": "Aboulaich Rajae",
+        "university": "Ecole Mohammadia d'Ingénieurs"
+      },
+      {
+        "name": "Sangeeta Saha",
+        "university": "Postdoctoral Fellow, Wilfrid Laurier University"
+      },
+      {
+        "name": "Carlos Rodriguez Lucatero",
+        "university": "Profesor-researcher of Computer Science at Universidad Autonoma Metropolitana Unidad Cuajimalpa"
+      }
+    ]
+  },
+  {
+    "Nom et Prénom": "Prof. Dr. Hanaa HACHIMI",
+    "ASS - Unevercity": "Associate Professor in Applied Mathematics & Computer Science, Sultan Moulay Slimane University",
+    "Spciality": "OptimizationStatisticsModeling",
+    "Status Depuis 2018": [
+      {
+        "H indice": "16",
+        "Citations": "703",
+        "H indice_I10": "16"
+      }
+    ],
+    "Status Golobal": [
+      {
+        "H indice": "15",
+        "Citations": "672",
+        "H indice_I10": "21"
+      }
+    ],
+    "Article": [
+      {
+        "Nom Article": "A new hybrid whale optimizer algorithm with mean strategy of grey wolf optimizer for global optimization",
+        "description": "N Singh, H Hachimi",
+        "auteur": "Mathematical and computational applications 23 (1), 14, 2018",
+        "Annee": "2018"
+      },
+      {
+        "Nom Article": "Hybridations d'algorithmes métaheuristiques en optimisation globale et leurs applications",
+        "description": "H Hachimi",
+        "auteur": "INSA de Rouen; École Mohammadia d'ingénieurs (Rabat, Maroc), 2013",
+        "Annee": "2013"
+      },
+      {
+        "Nom Article": "Deep transfer learning with apache spark to detect COVID-19 in chest X-ray images",
+        "description": "H Benbrahim, H Hachimi, A Amine",
+        "auteur": "Romanian Journal of Information Science and Technology 23 (S, SI), S117-S129, 2020",
+        "Annee": "2020"
+      },
+      {
+        "Nom Article": "Data management, analytics and innovation",
+        "description": "N Sharma, A Chakrabarti, VE Balas",
+        "auteur": "Proceedings of ICDMAI 1, 2019",
+        "Annee": "2019"
+      },
+      {
+        "Nom Article": "Demand-side management strategy in a smart home using electric vehicle and hybrid renewable energy system",
+        "description": "A Chakir, M Abid, M Tabaa, H Hachimi",
+        "auteur": "Energy Reports 8, 383-393, 2022",
+        "Annee": "2022"
+      },
+      {
+        "Nom Article": "Contrast optimization using elitist metaheuristic optimization and gradient approximation for biomedical image enhancement",
+        "description": "S Chakraborty, A Raman, S Sen, K Mali, S Chatterjee, H Hachimi",
+        "auteur": "2019 Amity International Conference on Artificial Intelligence (AICAI), 712-717, 2019",
+        "Annee": "2019"
+      },
+      {
+        "Nom Article": "Firefly algorithm for supply chain optimization",
+        "description": "M Elkhechafi, Z Benmamoun, H Hachimi, A Amine, Y Elkettani",
+        "auteur": "Lobachevskii Journal of Mathematics 39, 355-367, 2018",
+        "Annee": "2018"
+      },
+      {
+        "Nom Article": "Routing and charging of electric vehicles: Literature review",
+        "description": "M Abid, M Tabaa, A Chakir, H Hachimi",
+        "auteur": "Energy Reports 8, 556-578, 2022",
+        "Annee": "2022"
+      },
+      {
+        "Nom Article": "Comparative study of machine learning algorithms using the breast cancer dataset",
+        "description": "H Benbrahim, H Hachimi, A Amine",
+        "auteur": "Advanced Intelligent Systems for Sustainable Development (AI2SD’2019) Volume …, 2020",
+        "Annee": "2020"
+      },
+      {
+        "Nom Article": "Green port in blue ocean: optimization of energy in Asian ports",
+        "description": "S Fahdi, M ELKHECHAFI, H HACHIMI",
+        "auteur": "2019 5th International Conference on Optimization and Applications (ICOA), 1-4, 2019",
+        "Annee": "2019"
+      },
+      {
+        "Nom Article": "Modeling the flow of road traffic with the SUMO simulator",
+        "description": "S Haddouch, H Hachimi, N Hmina",
+        "auteur": "2018 4th International Conference on Optimization and Applications (ICOA), 1-5, 2018",
+        "Annee": "2018"
+      },
+      {
+        "Nom Article": "A new hybrid genetic algorithm and particle swarm optimization",
+        "description": "H Hachimi, R Ellaia, A El Hami",
+        "auteur": "Key Engineering Materials 498, 115-125, 2012",
+        "Annee": "2012"
+      },
+      {
+        "Nom Article": "New Extension of Beta Function and Its Applications",
+        "description": "MC hanaa hachimi",
+        "auteur": "International Journal of Mathematics and Mathematical Sciences, 2018",
+        "Annee": "2018"
+      },
+      {
+        "Nom Article": "A New Hybrid Cuckoo_search and Firefly Optimization",
+        "description": "M EL KHECHAFI, H HACHIMI, Y EL KETTANI",
+        "auteur": "",
+        "Annee": "2017"
+      },
+      {
+        "Nom Article": "Machine learning for cleaner production in port of Casablanca",
+        "description": "S Fahdi, M Elkhechafi, H Hachimi",
+        "auteur": "Journal of Cleaner Production 294, 126269, 2021",
+        "Annee": "2021"
+      },
+      {
+        "Nom Article": "How to select suppliers when implementing a sustainable procurement strategy",
+        "description": "HT BENCHEKROUN, Z BENMAMOUN, H HACHIMI",
+        "auteur": "2019 5th International Conference on Optimization and Applications (ICOA), 1-4, 2019",
+        "Annee": "2019"
+      },
+      {
+        "Nom Article": "Deep convolutional neural network with tensorflow and keras to classify skin cancer images",
+        "description": "H Benbrahim, H Hachimi, A Amine",
+        "auteur": "Scalable Computing: Practice and Experience 21 (3), 379-390, 2020",
+        "Annee": "2020"
+      },
+      {
+        "Nom Article": "Uniformed two local binary pattern combined with neighboring support vector classifier for classification",
+        "description": "M Ngadi, A Amine, B Nassih, H Hachimi, A El-Attar",
+        "auteur": "International Journal of Artificial Intelligence 15 (2), 102-115, 2017",
+        "Annee": "2017"
+      },
+      {
+        "Nom Article": "Analyse des effets des TIC sur l’enseignement supérieur au Maroc dans un contexte de formation en collaboration avec une université française.",
+        "description": "B Riyami",
+        "auteur": "Université de Bretagne Sud, 2018",
+        "Annee": "2018"
+      },
+      {
+        "Nom Article": "Intelligent Computing and Innovation on Data Science Proceedings of ICTIDS 2019",
+        "description": "SL Peng, G Suseendran, D Balaganesh",
+        "auteur": "Proceedings of ICTIDS, 1, 2019",
+        "Annee": "2019"
+      }
+    ],
+    "Coauthors": [
+      {
+        "name": "Zoubida Benmamoun",
+        "university": "Industrial engineering assistant professor,Liwa College"
+      },
+      {
+        "name": "Houssam Benbrahim",
+        "university": "National School of Applied Sciences, Ibn Tofail University, Kenitra, Morocco"
+      },
+      {
+        "name": "Dr.Mariam ELKHECHAFI",
+        "university": "Assistant Professor at Groupe ISCAE"
+      },
+      {
+        "name": "Mohammed NGADI",
+        "university": "PhD Student, ENSA-Kenitra"
+      },
+      {
+        "name": "Abdelkhalak EL HAMI",
+        "university": "Full Professor, INSA Rouen, Normandy University"
+      },
+      {
+        "name": "Adnane EL-ATTAR",
+        "university": "PhD in Computer Science, University of Sidi Mohammed Ben Abdellah"
+      },
+      {
+        "name": "SMAILLI MOULAY YOUSSEF",
+        "university": "Laboratoire de génie des systèmes"
+      },
+      {
+        "name": "Dr. Narinder Singh",
+        "university": "Ph.D., Department of Mathematics, Punjabi University, Patiala"
+      },
+      {
+        "name": "Mehar Chand",
+        "university": "Department of Mathematics, Baba Farid College, Deon-Bathinda, India"
+      },
+      {
+        "name": "Shouvik Chakraborty",
+        "university": "Ph.D. (Engg.), University of Kalyani"
+      },
+      {
+        "name": "Kalyani Mali",
+        "university": "Professor of Computer Science and Engineering, University of Kalyani"
+      },
+      {
+        "name": "Sankhadeep Chatterjee",
+        "university": "Assistant Professor, Department of CST, University of Engineering & Management, Kolkata"
+      },
+      {
+        "name": "Soumya Sen",
+        "university": "Assistant Professor, A.K.Choudhury School of IT & Teacher-In-Charge  B.Tech University of Calcutta"
+      },
+      {
+        "name": "Younes Aoues",
+        "university": "MCF INSA de ROUEN"
+      },
+      {
+        "name": "Belaid BOUIKHALENE",
+        "university": "Professor of Mathematics and Information Sciences"
+      },
+      {
+        "name": "Azdoud Youssef",
+        "university": "Laboratoire Génie des Systèmes, Centre des Etudes Doctorales, Faculté des Sciences Kénitra, Maroc."
+      }
+    ]
+  },
+  {
+    "Nom et Prénom": "NAJLAE IDRISSI",
+    "ASS - Unevercity": "Professeur d'informatique,Université Sultan Moulay Slimane, Faculté des Sciences et Techniques Béni",
+    "Spciality": "Intelligence artificiellemedical image processingwireless sensormachine learningdeep learning",
+    "Status Depuis 2018": [
+      {
+        "H indice": "9",
+        "Citations": "324",
+        "H indice_I10": "9"
+      }
+    ],
+    "Status Golobal": [
+      {
+        "H indice": "7",
+        "Citations": "252",
+        "H indice_I10": "5"
+      }
+    ],
+    "Article": [
+      {
+        "Nom Article": "Real-time system for driver fatigue detection based on a recurrent neuronal network",
+        "description": "Y Ed-Doughmi, N Idrissi, Y Hbali",
+        "auteur": "Journal of imaging 6 (3), 8, 2020",
+        "Annee": "2020"
+      },
+      {
+        "Nom Article": "Improved multi-objective weighted clustering algorithm in wireless sensor network",
+        "description": "H Ouchitachen, A Hair, N Idrissi",
+        "auteur": "Egyptian Informatics Journal 18 (1), 45-54, 2017",
+        "Annee": "2017"
+      },
+      {
+        "Nom Article": "Bridging the semantic gap for texture-based image retrieval and navigation.",
+        "description": "N Idrissi, J Martinez, D Aboutajdine",
+        "auteur": "Journal of Multimedia 4 (5), 2009",
+        "Annee": "2009"
+      },
+      {
+        "Nom Article": "Driver fatigue detection using recurrent neural networks",
+        "description": "Y Ed-Doughmi, N Idrissi",
+        "auteur": "Proceedings of the 2nd international conference on networking, information …, 2019",
+        "Annee": "2019"
+      },
+      {
+        "Nom Article": "A hybrid segmentation approach for brain tumor extraction and detection",
+        "description": "N Idrissi, FE Ajmi",
+        "auteur": "2014 International conference on multimedia computing and systems (ICMCS …, 2014",
+        "Annee": "2014"
+      },
+      {
+        "Nom Article": "Selecting a discriminant subset of co-occurrence matrix features for texture-based image retrieval",
+        "description": "N Idrissi, J Martinez, D Aboutajdine",
+        "auteur": "International Symposium on Visual Computing, 696-703, 2005",
+        "Annee": "2005"
+      },
+      {
+        "Nom Article": "Breast cancer image segmentation and classification",
+        "description": "I Khoulqi, N Idrissi",
+        "auteur": "Proceedings of the 4th International Conference on Smart City Applications, 1-9, 2019",
+        "Annee": "2019"
+      },
+      {
+        "Nom Article": "Automatic Speech Recognition for tamazight enchained digits",
+        "description": "A El Ghazi, C Daoui, N Idrissi",
+        "auteur": "World Journal Control Science and Engineering 2 (1), 1-5, 2014",
+        "Annee": "2014"
+      },
+      {
+        "Nom Article": "La navigation dans les bases d'images: prise en compte des attributs de texture",
+        "description": "N Idrissi",
+        "auteur": "Université de Nantes; Faculté des sciences de Rabat, 2008",
+        "Annee": "2008"
+      },
+      {
+        "Nom Article": "La navigation dans les bases d'images: prise en compte des attributs de texture",
+        "description": "N Idrissi",
+        "auteur": "Université de Nantes; Faculté des sciences de Rabat, 2008",
+        "Annee": "2008"
+      },
+      {
+        "Nom Article": "An energy efficient hierarchical routing scheme for wireless sensor networks",
+        "description": "A Aadri, N Idrissi",
+        "auteur": "Computer science & information technology, 137-148, 2017",
+        "Annee": "2017"
+      },
+      {
+        "Nom Article": "Speech recognition system based on Hidden Markov Model concerning the Moroccan dialect DARIJA",
+        "description": "A El Ghazi, C Daoui, N Idrissi, M Fakir, B Bouikhalene",
+        "auteur": "Global Journal of Computer Science and Technology 11 (15), 1-5, 2011",
+        "Annee": "2011"
+      },
+      {
+        "Nom Article": "Joint mission and communication aware node placement problem in mission-specific mobile sensor networks",
+        "description": "H Ouchitachen, A Hair, N Idrissi",
+        "auteur": "2014 5th Workshop on Codes, Cryptography and Communication Systems (WCCCS …, 2014",
+        "Annee": "2014"
+      },
+      {
+        "Nom Article": "An Advanced Comparative Study of MANETs Routing Protocols Under Varied Number of Nodes and Mobility Rate.",
+        "description": "A Aadri, N Idrissi",
+        "auteur": "J. Commun. 13 (6), 284-292, 2018",
+        "Annee": "2018"
+      },
+      {
+        "Nom Article": "Color Images Segmentation using Pairwise Markov Chain",
+        "description": "M Ameur, N Idrissi, C Daoui",
+        "auteur": "2018 6th International Conference on Multimedia Computing and Systems (ICMCS …, 2018",
+        "Annee": "2018"
+      },
+      {
+        "Nom Article": "ACluster BASED ROUTING ALGORITHM MINIMIZING ENERGY CONSUMPTION IN WSN",
+        "description": "A Aadri, N Idrissi",
+        "auteur": "International Journal of Wireless & Mobile Networks (IJWMN) Vol 9, 49-62, 2017",
+        "Annee": "2017"
+      },
+      {
+        "Nom Article": "Optimal placement of sensors in mission-specific mobile sensor networks",
+        "description": "H Ouchitachen, A Hair, N Idrissi",
+        "auteur": "TELKOMNIKA Indonesian Journal of Electrical Engineering 16 (1), 191-198, 2015",
+        "Annee": "2015"
+      },
+      {
+        "Nom Article": "Automatic speech recognition system concerning the moroccan dialecte (darija and tamazight)",
+        "description": "AEL Ghazi, C Daoui, N Idrissi",
+        "auteur": "Int. J. Eng. Sci. Technol.(IJEST) 4 (3), 966-975, 2012",
+        "Annee": "2012"
+      },
+      {
+        "Nom Article": "Split and Merge-Based Breast Cancer Segmentation and Classification",
+        "description": "I Khoulqi, N Idrissi",
+        "auteur": "Research Anthology on Medical Informatics in Breast and Cervical Cancer, 139-153, 2023",
+        "Annee": "2023"
+      },
+      {
+        "Nom Article": "Cervical Cancer Detection and Classification Using MRIs",
+        "description": "I Khoulqi, N Idrissi",
+        "auteur": "Jordanian Journal of Computers and Information Technology 8 (2), 2022",
+        "Annee": "2022"
+      }
+    ],
+    "Coauthors": []
+  },
+  {
+    "Nom et Prénom": "Sehl Mellouli",
+    "ASS - Unevercity": "Université Laval",
+    "Spciality": "",
+    "Status Depuis 2018": [
+      {
+        "H indice": "26",
+        "Citations": "6580",
+        "H indice_I10": "26"
+      }
+    ],
+    "Status Golobal": [
+      {
+        "H indice": "20",
+        "Citations": "4681",
+        "H indice_I10": "33"
+      }
+    ],
+    "Article": [
+      {
+        "Nom Article": "Understanding smart cities: An integrative framework",
+        "description": "H Chourabi, T Nam, S Walker, JR Gil-Garcia, S Mellouli, K Nahon, ...",
+        "auteur": "2012 45th Hawaii international conference on system sciences, 2289-2297, 2012",
+        "Annee": "2012"
+      },
+      {
+        "Nom Article": "Building understanding of smart city initiatives",
+        "description": "S Alawadhi, A Aldama-Nalda, H Chourabi, JR Gil-Garcia, S Leung, ...",
+        "auteur": "Electronic Government: 11th IFIP WG 8.5 International Conference, EGOV 2012 …, 2012",
+        "Annee": "2012"
+      },
+      {
+        "Nom Article": "IoT and AI for smart government: A research agenda",
+        "description": "A Kankanhalli, Y Charalabidis, S Mellouli",
+        "auteur": "Government Information Quarterly 36 (2), 304-309, 2019",
+        "Annee": "2019"
+      },
+      {
+        "Nom Article": "Smart government, citizen participation and open data.",
+        "description": "S Mellouli, LF Luna-Reyes, J Zhang",
+        "auteur": "Inf. Polity 19 (1-2), 1-4, 2014",
+        "Annee": "2014"
+      },
+      {
+        "Nom Article": "Winning the SDG battle in cities: how an integrated information ecosystem can contribute to the achievement of the 2030 sustainable development goals",
+        "description": "J Corbett, S Mellouli",
+        "auteur": "Information Systems Journal 27 (4), 427-461, 2017",
+        "Annee": "2017"
+      },
+      {
+        "Nom Article": "From citizens to government policy-makers: Social media data analysis",
+        "description": "OB Driss, S Mellouli, Z Trabelsi",
+        "auteur": "Government Information Quarterly 36 (3), 560-570, 2019",
+        "Annee": "2019"
+      },
+      {
+        "Nom Article": "Deploying governance networks for societal challenges",
+        "description": "A Ojo, S Mellouli",
+        "auteur": "Government Information Quarterly 35 (4), S106-S112, 2018",
+        "Annee": "2018"
+      },
+      {
+        "Nom Article": "Context-aware recommender systems in mobile environment: On the road of future research",
+        "description": "IB Sassi, S Mellouli, SB Yahia",
+        "auteur": "Information Systems 72, 27-61, 2017",
+        "Annee": "2017"
+      },
+      {
+        "Nom Article": "Open government, open data and digital government",
+        "description": "LF Luna-Reyes, JC Bertot, S Mellouli",
+        "auteur": "Government Information Quarterly 31 (1), 4-5, 2014",
+        "Annee": "2014"
+      },
+      {
+        "Nom Article": "Modeling and simulation agent-based of natural disaster complex systems",
+        "description": "K Mustapha, H Mcheick, S Mellouli",
+        "auteur": "Procedia Computer Science 21, 148-155, 2013",
+        "Annee": "2013"
+      },
+      {
+        "Nom Article": "Proactive and reactive e-government services recommendation",
+        "description": "R Ayachi, I Boukhris, S Mellouli, N Ben Amor, Z Elouedi",
+        "auteur": "Universal Access in the Information Society 15, 681-697, 2016",
+        "Annee": "2016"
+      },
+      {
+        "Nom Article": "Multinational e-government collaboration, information sharing, and interoperability: An integrative model",
+        "description": "C Navarrete, JR Gil-Garcia, S Mellouli, TA Pardo, J Scholl",
+        "auteur": "2010 43rd Hawaii International Conference on System Sciences, 1-10, 2010",
+        "Annee": "2010"
+      },
+      {
+        "Nom Article": "Electronic citizens participation: Systematic review",
+        "description": "A Boudjelida, S Mellouli, J Lee",
+        "auteur": "Proceedings of the 9th international conference on theory and practice of …, 2016",
+        "Annee": "2016"
+      },
+      {
+        "Nom Article": "Reputation-based winner determination problem for combinatorial transportation procurement auctions",
+        "description": "M Rekik, S Mellouli",
+        "auteur": "Journal of the Operational Research Society 63 (10), 1400-1409, 2012",
+        "Annee": "2012"
+      },
+      {
+        "Nom Article": "Modeling e-government business processes: New approaches to transparent and efficient performance.",
+        "description": "H Chourabi, S Mellouli, F Bouslama",
+        "auteur": "Inf. Polity 14 (1-2), 91-109, 2009",
+        "Annee": "2009"
+      },
+      {
+        "Nom Article": "Smart cities and service integration initiatives in North American cities: A status report",
+        "description": "A Aldama-Nalda, H Chourabi, TA Pardo, JR Gil-Garcia, S Mellouli, ...",
+        "auteur": "Proceedings of the 13th annual international conference on digital …, 2012",
+        "Annee": "2012"
+      },
+      {
+        "Nom Article": "Laying down the foundations of an agent modelling methodology for fault-tolerant multi-agent systems",
+        "description": "S Mellouli, B Moulin, G Mineau",
+        "auteur": "Engineering Societies in the Agents World IV: 4th International Workshops …, 2004",
+        "Annee": "2004"
+      },
+      {
+        "Nom Article": "Smart cities in the era of artificial intelligence and internet of things: literature review from 1990 to 2017",
+        "description": "AB Rjab, S Mellouli",
+        "auteur": "Proceedings of the 19th annual international conference on digital …, 2018",
+        "Annee": "2018"
+      },
+      {
+        "Nom Article": "Architecturing large integrated complex information systems: an application to healthcare",
+        "description": "D Pascot, F Bouslama, S Mellouli",
+        "auteur": "Knowledge and Information Systems 27, 115-140, 2011",
+        "Annee": "2011"
+      },
+      {
+        "Nom Article": "A reputation based electronic government procurement model",
+        "description": "H Klabi, S Mellouli, M Rekik",
+        "auteur": "Proceedings of the 7th International Conference on Theory and Practice of …, 2013",
+        "Annee": "2013"
+      }
+    ],
+    "Coauthors": [
+      {
+        "name": "J. Ramon Gil-Garcia",
+        "university": "Full Professor and Director, University at Albany, SUNY"
+      },
+      {
+        "name": "Theresa Pardo",
+        "university": "Associate Vice President for Research and Economic Development, University at Albany, SUNY"
+      },
+      {
+        "name": "Hafedh CHOURABI",
+        "university": "Université Laval"
+      },
+      {
+        "name": "Hans Jochen Scholl",
+        "university": "Professor, University of Washington"
+      },
+      {
+        "name": "Nam Taewoo",
+        "university": "Sungkyunkwan University"
+      },
+      {
+        "name": "Shawn Walker",
+        "university": "Assistant Professor, Social and Behavioral Sciences, Arizona State University"
+      },
+      {
+        "name": "Luis Felipe Luna-Reyes",
+        "university": "Professor of Public Administration and Policy (University at Albany)"
+      },
+      {
+        "name": "Jing Zhang",
+        "university": "Professor of Information Management and Business Analytics, Academic Associate Dean, Clark"
+      },
+      {
+        "name": "Faouzi Bouslama",
+        "university": "Associate Professor & PTL, CIS, Higher Colleges of Technology"
+      },
+      {
+        "name": "monia rekik",
+        "university": "Université Laval"
+      },
+      {
+        "name": "Karine Nahon",
+        "university": "Associate Professor, Reichman University and University of Washington;"
+      },
+      {
+        "name": "Suha AlAwadhi",
+        "university": "Associate Professor, Information Studies, Kuwait University"
+      },
+      {
+        "name": "Armando Aldama-Nalda",
+        "university": "CUDI"
+      },
+      {
+        "name": "Adegboyega Ojo",
+        "university": "School of Public Policy and Administration, Carleton University"
+      },
+      {
+        "name": "John Bertot",
+        "university": "University of Maryland College Park"
+      },
+      {
+        "name": "Hamid Mcheick",
+        "university": "Professor, University of Quebec at Chicoutimi"
+      },
+      {
+        "name": "Nahla Ben amor",
+        "university": "Institut Supérieur de Gestion Tunis"
+      },
+      {
+        "name": "Sadok Ben Yahia",
+        "university": "Professor,   University of Southern Denmark"
+      },
+      {
+        "name": "Imen Ben Sassi",
+        "university": "Ph.D."
+      },
+      {
+        "name": "Imen Boukhris",
+        "university": "Maître de conférences, ENSI, Université de la Manouba, Tunisia"
+      }
+    ]
+  },
+  {
+    "Nom et Prénom": "Boudhir Anouar Abdelhakim",
+    "ASS - Unevercity": "CSS Laboratory,SSET Research Team, FSTT, Abdelmalek Essaadi University, Tetouan, Morocco",
+    "Spciality": "Computer Sciences",
+    "Status Depuis 2018": [
+      {
+        "H indice": "12",
+        "Citations": "662",
+        "H indice_I10": "12"
+      }
+    ],
+    "Status Golobal": [
+      {
+        "H indice": "10",
+        "Citations": "429",
+        "H indice_I10": "10"
+      }
+    ],
+    "Article": [
+      {
+        "Nom Article": "Performance comparison of ad-hoc routing protocols AODV and DSR",
+        "description": "M Bouhorma, H Bentaouit, A Boudhir",
+        "auteur": "2009 International Conference on Multimedia Computing and Systems, 511-514, 2009",
+        "Annee": "2009"
+      },
+      {
+        "Nom Article": "A smart chatbot architecture based NLP and machine learning for health care assistance",
+        "description": "S Ayanouz, BA Abdelhakim, M Benhmed",
+        "auteur": "Proceedings of the 3rd international conference on networking, information …, 2020",
+        "Annee": "2020"
+      },
+      {
+        "Nom Article": "New technique of wireless sensor networks localization based on energy consumption",
+        "description": "AA Boudhir, B Mohamed, BA Mohamed",
+        "auteur": "International Journal of Computer Applications 9 (12), 25-28, 2010",
+        "Annee": "2010"
+      },
+      {
+        "Nom Article": "Using feature selection techniques to improve the accuracy of breast cancer classification",
+        "description": "H Saoud, A Ghadi, M Ghailani, BA Abdelhakim",
+        "auteur": "Innovations in Smart Cities Applications Edition 2: The Proceedings of the …, 2019",
+        "Annee": "2019"
+      },
+      {
+        "Nom Article": "Permission based malware detection in android devices",
+        "description": "S Ilham, G Abderrahim, BA Abdelhakim",
+        "auteur": "Proceedings of the 3rd International Conference on Smart City Applications, 1-6, 2018",
+        "Annee": "2018"
+      },
+      {
+        "Nom Article": "Vehicular navigation spoofing detection based on V2I calibration",
+        "description": "A Boudhir, M Benahmed, A Ghadi, M Bouhorma",
+        "auteur": "2016 4th IEEE International Colloquium on Information Science and Technology …, 2016",
+        "Annee": "2016"
+      },
+      {
+        "Nom Article": "Speech quality evaluation based codec for VoIP over 802.11 P",
+        "description": "S El Brak, M Bouhorma, M El Brak, A Bohdhir",
+        "auteur": "International Journal of Wireless & Mobile Networks 5 (2), 59, 2013",
+        "Annee": "2013"
+      },
+      {
+        "Nom Article": "An analysis of ResNet50 model and RMSprop optimizer for education platform using an intelligent chatbot system",
+        "description": "Y Saadna, AA Boudhir, M Ben Ahmed",
+        "auteur": "Networking, Intelligent Systems and Security: Proceedings of NISS 2021, 577-590, 2022",
+        "Annee": "2022"
+      },
+      {
+        "Nom Article": "Deep Learning architecture for temperature forecasting in an IoT LoRa based system",
+        "description": "BAO Ikram, BA Abdelhakim, A Abdelali, B Zafar, B Mohammed",
+        "auteur": "Proceedings of the 2nd International Conference on Networking, Information …, 2019",
+        "Annee": "2019"
+      },
+      {
+        "Nom Article": "An intelligent chatbot using NLP and TF-IDF algorithm for text understanding applied to the medical field",
+        "description": "A Soufyane, BA Abdelhakim, MB Ahmed",
+        "auteur": "Emerging Trends in ICT for Sustainable Development: The Proceedings of …, 2021",
+        "Annee": "2021"
+      },
+      {
+        "Nom Article": "New routing algorithm based on ACO approach for lifetime optimization in wireless sensor networks",
+        "description": "M AHMED, AA Boudhir, M Bouhorma",
+        "auteur": "International Journal 1 (2), 64-67, 2012",
+        "Annee": "2012"
+      },
+      {
+        "Nom Article": "VoIP over MANET (VoMAN): QoS & Performance Analysis of Routing Protocols for Different Audio Codecs",
+        "description": "M Bouhorma, AA Boudhir",
+        "auteur": "International Journal of Computer Applications 975, 8887, 2011",
+        "Annee": "2011"
+      },
+      {
+        "Nom Article": "Image malware detection using deep learning",
+        "description": "J El Abdelkhalki, MB Ahmed, BA Abdelhakim",
+        "auteur": "International Journal of Communication Networks and Information Security 12 …, 2020",
+        "Annee": "2020"
+      },
+      {
+        "Nom Article": "Performance study of various routing protocols in VANET case of study",
+        "description": "MB Ahmed, AA Boudhir, M Bouhorma, KB Ahmed",
+        "auteur": "International Journal of Future Generation Communication and Networking 7 (6 …, 2014",
+        "Annee": "2014"
+      },
+      {
+        "Nom Article": "Towards a new cyberdefense generation: proposition of an intelligent cybersecurity framework for malware attacks",
+        "description": "IB Abdel Ouahab, M Bouhorma, L El Aachak, AA Boudhir",
+        "auteur": "Recent Advances in Computer Science and Communications (Formerly: Recent …, 2022",
+        "Annee": "2022"
+      },
+      {
+        "Nom Article": "Innovations in Smart Cities Applications Volume 4: The Proceedings of the 5th International Conference on Smart City Applications",
+        "description": "MB Ahmed, İR Karaș, D Santos, O Sergeyeva, AA Boudhir",
+        "auteur": "Springer Nature, 2021",
+        "Annee": "2021"
+      },
+      {
+        "Nom Article": "Classification of grayscale malware images using the K-nearest neighbor algorithm",
+        "description": "I Ben Abdel Ouahab, M Bouhorma, AA Boudhir, L El Aachak",
+        "auteur": "Innovations in Smart Cities Applications Edition 3: The Proceedings of the …, 2020",
+        "Annee": "2020"
+      },
+      {
+        "Nom Article": "Application of data mining classification algorithms for breast cancer diagnosis",
+        "description": "H Saoud, A Ghadi, M Ghailani, BA Abdelhakim",
+        "auteur": "Proceedings of the 3rd international conference on smart city applications, 1-7, 2018",
+        "Annee": "2018"
+      },
+      {
+        "Nom Article": "Energy optimization approaches in wireless sensor networks: A survey",
+        "description": "A Boudhir, M Bouhorma, M Benahmed",
+        "auteur": "International Journal of networks and systems 1 (1), 2012",
+        "Annee": "2012"
+      },
+      {
+        "Nom Article": "Voice over VANETs (VoVAN): QoS performance analysis of different voice CODECs in urban VANET scenarios",
+        "description": "S El Brak, M Bouhorma, AA Boudhir, M El Brak, M Essaaidi",
+        "auteur": "2012 International Conference on Multimedia Computing and Systems, 360-365, 2012",
+        "Annee": "2012"
+      }
+    ],
+    "Coauthors": []
+  },
+  {
+    "Nom et Prénom": "Mohammed Erritali",
+    "ASS - Unevercity": "université sultan moulay slimane",
+    "Spciality": "",
+    "Status Depuis 2018": [
+      {
+        "H indice": "20",
+        "Citations": "1748",
+        "H indice_I10": "20"
+      }
+    ],
+    "Status Golobal": [
+      {
+        "H indice": "20",
+        "Citations": "1518",
+        "H indice_I10": "30"
+      }
+    ],
+    "Article": [
+      {
+        "Nom Article": "A comparative study of decision tree ID3 and C4. 5",
+        "description": "B Hssina, A Merbouha, H Ezzikouri, M Erritali",
+        "auteur": "International Journal of Advanced Computer Science and Applications 4 (2), 13-19, 2014",
+        "Annee": "2014"
+      },
+      {
+        "Nom Article": "Machine learning and semantic sentiment analysis based algorithms for suicide sentiment prediction in social networks",
+        "description": "M Birjali, A Beni-Hssane, M Erritali",
+        "auteur": "Procedia Computer Science 113, 65-72, 2017",
+        "Annee": "2017"
+      },
+      {
+        "Nom Article": "A novel adaptive e-learning model based on Big Data by using competence-based knowledge and social learner activities",
+        "description": "M Birjali, A Beni-Hssane, M Erritali",
+        "auteur": "Applied Soft Computing 69, 14-32, 2018",
+        "Annee": "2018"
+      },
+      {
+        "Nom Article": "Using artificial intelligence techniques for detecting Covid-19 epidemic fake news in Moroccan tweets",
+        "description": "Y Madani, M Erritali, B Bouikhalene",
+        "auteur": "Results in Physics 25, 104266, 2021",
+        "Annee": "2021"
+      },
+      {
+        "Nom Article": "Analyzing social media through big data using infosphere biginsights and apache flume",
+        "description": "M Birjali, A Beni-Hssane, M Erritali",
+        "auteur": "Procedia computer science 113, 280-285, 2017",
+        "Annee": "2017"
+      },
+      {
+        "Nom Article": "Social collaborative filtering approach for recommending courses in an E-learning platform",
+        "description": "Y Madani, M Erritali, J Bengourram, F Sailhan",
+        "auteur": "Procedia Computer Science 151, 1164-1169, 2019",
+        "Annee": "2019"
+      },
+      {
+        "Nom Article": "A review and classification of various VANET Intrusion Detection Systems",
+        "description": "M Erritali, B El Ouahidi",
+        "auteur": "2013 National Security Days (JNS3), 1-6, 2013",
+        "Annee": "2013"
+      },
+      {
+        "Nom Article": "Finding optimal pedagogical content in an adaptive e-learning platform using a new recommendation approach and reinforcement learning",
+        "description": "Y Madani, H Ezzikouri, M Erritali, B Hssina",
+        "auteur": "Journal of Ambient Intelligence and Humanized Computing 11, 3921-3936, 2020",
+        "Annee": "2020"
+      },
+      {
+        "Nom Article": "Road traffic congestion detection in VANET networks",
+        "description": "B Cherkaoui, A Beni-Hssane, M El Fissaoui, M Erritali",
+        "auteur": "Procedia Computer Science 151, 1158-1163, 2019",
+        "Annee": "2019"
+      },
+      {
+        "Nom Article": "Sentiment analysis using semantic similarity and Hadoop MapReduce",
+        "description": "Y Madani, M Erritali, J Bengourram",
+        "auteur": "Knowledge and Information Systems 59, 413-436, 2019",
+        "Annee": "2019"
+      },
+      {
+        "Nom Article": "A survey on VANET intrusion detection systems",
+        "description": "M Erritali, B El Ouahidi",
+        "auteur": "Proceedings of the 2013 International Conference on Systems, Control, Signal …, 2013",
+        "Annee": "2013"
+      },
+      {
+        "Nom Article": "A personalized pedagogical objectives based on a genetic algorithm in an adaptive learning system",
+        "description": "B Hssina, M Erritali",
+        "auteur": "Procedia Computer Science 151, 1152-1157, 2019",
+        "Annee": "2019"
+      },
+      {
+        "Nom Article": "Adaptive e-learning using genetic algorithm and sentiments analysis in a big data system",
+        "description": "Y Madani, J Bengourram, M Erritali, M Birjali",
+        "auteur": "International Journal of Advanced Computer Science And Applications 8 (8), 2017",
+        "Annee": "2017"
+      },
+      {
+        "Nom Article": "Edugame an Android game for teaching children",
+        "description": "B Hssina, M Erritali, B Bouikhalene, A Merbouha",
+        "auteur": "International Journal of Innovation and Applied Studies 9 (4), 1531, 2014",
+        "Annee": "2014"
+      },
+      {
+        "Nom Article": "Learning with big data technology: The future of education",
+        "description": "M Birjali, A Beni-Hssane, M Erritali",
+        "auteur": "Proceedings of the Third International Afro-European Conference for …, 2018",
+        "Annee": "2018"
+      },
+      {
+        "Nom Article": "A new approach for calculating semantic similarity between words using WordNet and set theory",
+        "description": "H Ezzikouri, Y Madani, M Erritali, M Oukessou",
+        "auteur": "Procedia Computer Science 151, 1261-1265, 2019",
+        "Annee": "2019"
+      },
+      {
+        "Nom Article": "Variable control chart for detecting black hole attack in vehicular ad-hoc networks",
+        "description": "B Cherkaoui, A Beni-hssane, M Erritali",
+        "auteur": "Journal of Ambient Intelligence and Humanized Computing 11, 5129-5138, 2020",
+        "Annee": "2020"
+      },
+      {
+        "Nom Article": "A multilingual fuzzy approach for classifying Twitter data using fuzzy logic and semantic similarity",
+        "description": "Y Madani, M Erritali, J Bengourram, F Sailhan",
+        "auteur": "Neural Computing and Applications 32, 8655-8673, 2020",
+        "Annee": "2020"
+      },
+      {
+        "Nom Article": "Load balancing protocol (EESAA) to improve quality of service in wireless sensor network",
+        "description": "A Ennaciri, M Erritali, J Bengourram",
+        "auteur": "Procedia Computer Science 151, 1140-1145, 2019",
+        "Annee": "2019"
+      },
+      {
+        "Nom Article": "A method proposed for estimating depressed feeling tendencies of social media users utilizing their data",
+        "description": "M Birjali, A Beni-Hssane, M Erritali",
+        "auteur": "Proceedings of the 16th International Conference on Hybrid Intelligent …, 2017",
+        "Annee": "2017"
+      }
+    ],
+    "Coauthors": []
+  },
+  {
+    "Nom et Prénom": "YOUSSEF SAADI",
+    "ASS - Unevercity": "University Sultan Moulay Slimane",
+    "Spciality": "Cloud ComputingWireless networks",
+    "Status Depuis 2018": [
+      {
+        "H indice": "5",
+        "Citations": "332",
+        "H indice_I10": "5"
+      }
+    ],
+    "Status Golobal": [
+      {
+        "H indice": "4",
+        "Citations": "292",
+        "H indice_I10": "2"
+      }
+    ],
+    "Article": [
+      {
+        "Nom Article": "DDoS attack detection using machine learning techniques in cloud computing environments",
+        "description": "M Zekri, S El Kafhali, N Aboutabit, Y Saadi",
+        "auteur": "2017 3rd international conference of cloud computing technologies and …, 2017",
+        "Annee": "2017"
+      },
+      {
+        "Nom Article": "Energy-efficient strategy for virtual machine consolidation in cloud environment",
+        "description": "Y Saadi, S El Kafhali",
+        "auteur": "Soft Computing 24 (19), 14845-14859, 2020",
+        "Annee": "2020"
+      },
+      {
+        "Nom Article": "Simulation analysis of routing protocols using manhattan grid mobility model in MANET",
+        "description": "Y Saadi, SE Kafhali, A Haqiq, B Nassereddine",
+        "auteur": "arXiv preprint arXiv:1304.2035, 2013",
+        "Annee": "2013"
+      },
+      {
+        "Nom Article": "An adaptive approach to control broadcast traffic in wireless mesh networks based IEEE 802.11 s",
+        "description": "Y Saadi, B Nassereddine, S Bennani, A Maach",
+        "auteur": "2012 IEEE International Conference on Complex Systems (ICCS), 1-7, 2012",
+        "Annee": "2012"
+      },
+      {
+        "Nom Article": "Wireless Mesh Networks Capacity Improvement Using CBF",
+        "description": "Y Saadi, B Nassereddine, S Jounaidi, A Haqiq",
+        "auteur": "International Journal of Wireless & Mobile Networks (IJWMN) Vol 7, 1-2, 2015",
+        "Annee": "2015"
+      },
+      {
+        "Nom Article": "CBF evaluation through simulation",
+        "description": "Y Saadi, B Nassereddine, A Haqiq",
+        "auteur": "2014 International Conference on Next Generation Networks and Services (NGNS …, 2014",
+        "Annee": "2014"
+      },
+      {
+        "Nom Article": "Server consolidation algorithms for cloud computing: taxonomies and systematic analysis of literature",
+        "description": "H Mikram, S El Kafhali, Y Saadi",
+        "auteur": "International Journal of Cloud Applications and Computing (IJCAC) 12 (1), 1-24, 2022",
+        "Annee": "2022"
+      },
+      {
+        "Nom Article": "Processing Time Performance Analysis of Scheduling Algorithms for Virtual Machines Placement in Cloud Computing Environment",
+        "description": "H Mikram, S El Kafhali, Y Saadi",
+        "auteur": "International Conference On Big Data and Internet of Things, 200-211, 2022",
+        "Annee": "2022"
+      },
+      {
+        "Nom Article": "Energy-based comparison for workflow task clustering techniques",
+        "description": "Y Saadi, A Hnini, S Jounaidi, H Zougah",
+        "auteur": "International Conference on Intelligent Systems Design and Applications, 526-535, 2020",
+        "Annee": "2020"
+      },
+      {
+        "Nom Article": "Medium Access Guarantee in Wireless Mesh Network",
+        "description": "S Jounaidi, Y Saadi, B Nassereddine",
+        "auteur": "International Journal of Computer Applications 975, 8887, 2015",
+        "Annee": "2015"
+      },
+      {
+        "Nom Article": "Reducing energy footprint in cloud computing: a study on the impact of clustering techniques and scheduling algorithms for scientific workflows",
+        "description": "Y Saadi, S Jounaidi, S El Kafhali, H Zougagh",
+        "auteur": "Computing, 1-31, 2023",
+        "Annee": "2023"
+      },
+      {
+        "Nom Article": "Metaheuristic Algorithms Based Server Consolidation for Tasks Scheduling in Cloud Computing Environment",
+        "description": "H Mikram, S El Kafhali, Y Saadi",
+        "auteur": "The International Conference on Artificial Intelligence and Computer Vision …, 2023",
+        "Annee": "2023"
+      },
+      {
+        "Nom Article": "Performance Analysis of Scheduling Algorithms for Virtual Machines and Tasks in Cloud Computing",
+        "description": "H Mikram, S El Kafhali, Y Saadi",
+        "auteur": "The International Conference of Advanced Computing and Informatics, 278-289, 2022",
+        "Annee": "2022"
+      },
+      {
+        "Nom Article": "BROADCAST BY FLOODING IMPROVEMENT IN IEEE 802.11 S BASED WIRELESS MESH NETWORKS.",
+        "description": "Y Saadi, B Nassereddine, S Jounaidi, A Haqiq",
+        "auteur": "Journal of Theoretical & Applied Information Technology 84 (1), 2016",
+        "Annee": "2016"
+      },
+      {
+        "Nom Article": "Fairness and differentiation of services in wireless mesh network",
+        "description": "S Jounaidi, B Nassereddine, Y Saadi, A Haqiq",
+        "auteur": "2015 5th World Congress on Information and Communication Technologies (WICT …, 2015",
+        "Annee": "2015"
+      },
+      {
+        "Nom Article": "Bandwidth management and fairness guarantee in wireless mesh network",
+        "description": "A Haqiq, Y Saadi, B Nassereddine, S Jounaidi",
+        "auteur": "International Journal of Advanced Research in Computer Engineering …, 2015",
+        "Annee": "2015"
+      },
+      {
+        "Nom Article": "HEPGA: a new effective hybrid algorithm for scientific workflow scheduling in cloud computing environment",
+        "description": "H Mikram, S El Kafhali, Y Saadi",
+        "auteur": "Simulation Modelling Practice and Theory, 102864, 2023",
+        "Annee": "2023"
+      },
+      {
+        "Nom Article": "Artificial Intelligence and Green Computing: Proceedings of the International Conference on Artificial Intelligence and Green Computing",
+        "description": "N Idrissi, A Hair, M Lazaar, Y Saadi, M Erritali, S El Kafhali",
+        "auteur": "Springer Nature, 2023",
+        "Annee": "2023"
+      },
+      {
+        "Nom Article": "Predicting the e-Signing Likelihood of Loan Using Machine Learning Models Combining Clustering with Supervised Learning",
+        "description": "YS Abdellatif Aattouf, Said El Kafhali",
+        "auteur": "Advances in Intelligent Systems and Computing 1399, 121-131, 2021",
+        "Annee": "2021"
+      },
+      {
+        "Nom Article": "A Study of Machine Learning Based Approach for Hotels’ Matching",
+        "description": "EM Jaouhar, S El Kafhali, Y Saadi",
+        "auteur": "International Conference On Big Data and Internet of Things, 373-384, 2021",
+        "Annee": "2021"
+      }
+    ],
+    "Coauthors": []
+  }
+]
