@@ -8,6 +8,8 @@ le fichier scrapping_profils_googlescholar_acp-ipynb est le notebook qui contien
 
 le resulats est stocke dans le fichier excel resultats_scrapping_acp.xlsx
 
+Dna le fichier ACP_scholar.ipynb contient l'application de L'ACP sur le data de fichier : resultats_scrapping_acp.xlsx
+
 
 
 # Explication de choix de methode d'analyse de donnees:
