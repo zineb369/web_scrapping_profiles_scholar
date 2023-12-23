@@ -1,7 +1,7 @@
 # web_scrapping_profiles_scholar
 web scrapping authors profiles in google scholar using python
 
-dans le fichier scrapping_profiles_json.ipynb est le fichier jyputer notebook pour le web scrapping de 20 profiles de chercheurs sur google scholar
+dans le fichier scrapping_profiles_json(1).ipynb est le fichier jyputer notebook pour le web scrapping de 20 profiles de chercheurs sur google scholar
 le resultat est en format json dans le fichier profiles_json.json
 
 le fichier scrapping_profils_googlescholar_acp-ipynb est le notebook qui contient le code python pour le web scrapping de donnees quantitatives des profiles dans google scholar afin d'appliquer la methode d'analyse en composntes principales
